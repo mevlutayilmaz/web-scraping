@@ -1,0 +1,4124 @@
+{
+    "products": [
+        {
+            "name": "Samsung Galaxy A15 6/128 Gb Akıllı Telefon Siyah",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy A15",
+            "price": "8599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/143173-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "91"
+        },
+        {
+            "name": "iPhone 13 128 Gb Siyah",
+            "brand": "APPLE",
+            "modelNo": "iPhone 13",
+            "price": "38799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129743-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "1313"
+        },
+        {
+            "name": "Xiaomi Redmi 12 8/128 GB Gece Yarısı Siyahı Akıllı Telefon",
+            "brand": "XIAOMI",
+            "modelNo": "Redmi 12",
+            "price": "7499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/141277-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "95"
+        },
+        {
+            "name": "SAMSUNG GALAXY A35 8/256 GB AKILLI TELEFON MAVİ",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy A35",
+            "price": "15499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/144577-1-2_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "48"
+        },
+        {
+            "name": "iPhone 15 128 Gb Akıllı Telefon Siyah",
+            "brand": "APPLE",
+            "modelNo": "iPhone 15",
+            "price": "53799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/140315-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "254"
+        },
+        {
+            "name": "Samsung Galaxy S23 FE 5g 8/256 Gb Akıllı Telefon Grafit",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy S23 FE",
+            "price": "25999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141900-default-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "187"
+        },
+        {
+            "name": "SAMSUNG GALAXY A55 8/256 GB AKILLI TELEFON MAVİ",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy A55",
+            "price": "19499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/144584-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "47"
+        },
+        {
+            "name": "SAMSUNG GALAXY A35 8/256 GB AKILLI TELEFON SİYAH",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy A35",
+            "price": "15499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/144576-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "48"
+        },
+        {
+            "name": "SAMSUNG GALAXY A55 8/256 GB AKILLI TELEFON SİYAH",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy A55",
+            "price": "19499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/144583-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "47"
+        },
+        {
+            "name": "TK-10 32\"-55\" Lcd-Led TV Askı Aparatı",
+            "brand": "EVEREST",
+            "modelNo": "TK-10",
+            "price": "369",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/everest/thumb/v2-68662-1_small.jpg",
+            "categoryId": "bf07b880-2180-4fe4-8a63-08dcb60fcab4",
+            "rating": "80",
+            "ratingCount": "9"
+        },
+        {
+            "name": "iPhone 12 128 Gb Siyah",
+            "brand": "APPLE",
+            "modelNo": "iPhone 12",
+            "price": "30999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/108883-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "687"
+        },
+        {
+            "name": "TCL ONETOUCH 4022S TUŞLU TELEFON GRAY",
+            "brand": "TCL",
+            "modelNo": "Onetouch 4022S",
+            "price": "2199",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tcl/thumb/142148-1_small.jpg",
+            "categoryId": "c12f70c5-d781-40af-fd4e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "62"
+        },
+        {
+            "name": "Samsung Galaxy A25 5G 6/128 Gb Akıllı Telefon Siyah",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy A25",
+            "price": "11999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/143178-1-2_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "74"
+        },
+        {
+            "name": "iPhone 12 128 Gb Akıllı Telefon Beyaz",
+            "brand": "APPLE",
+            "modelNo": "iPhone 12",
+            "price": "30999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-2_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "687"
+        },
+        {
+            "name": "Xiaomi Redmi Note 13 8GB/256GB Siyah Akıllı Telefon",
+            "brand": "XIAOMI",
+            "modelNo": "Redmi Note 13",
+            "price": "10949",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/note-13-256-siyah_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "40"
+        },
+        {
+            "name": "iPhone 13 128 Gb Akıllı Telefon Yıldız Işığı",
+            "brand": "APPLE",
+            "modelNo": "iPhone 13",
+            "price": "38799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129885-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "1313"
+        },
+        {
+            "name": "XIAOMI MI TV BOX S (2.NESİL) SİYAH",
+            "brand": "XIAOMI",
+            "modelNo": "xiaomi-mi-tv-box-s-2nd",
+            "price": "2349",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/139621-1_small.jpg",
+            "categoryId": "b8df85ca-d532-49b2-fd51-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "iPhone 11 64 Gb Akıllı Telefon Beyaz",
+            "brand": "APPLE",
+            "modelNo": "iPhone 11",
+            "price": "21799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113144-1-3_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "2550"
+        },
+        {
+            "name": "Sony Playstation 5 Slim Digital Sürüm Oyun Konsolu",
+            "brand": "SONY",
+            "modelNo": "Playstation 5 Slim",
+            "price": "25999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/143067-1_small.jpg",
+            "categoryId": "b105dcce-5000-44e6-8ff3-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "38"
+        },
+        {
+            "name": "Xiaomi Redmi Note 13 8GB/256GB Mavi Akıllı Telefon",
+            "brand": "XIAOMI",
+            "modelNo": "Redmi Note 13",
+            "price": "10949",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/note-13-256-mavi_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "40"
+        },
+        {
+            "name": "Samsung Evo Plus 128 GB Adaptörlü Hafıza Kartı (160MB/S)",
+            "brand": "SAMSUNG",
+            "modelNo": "MB-MC128SA/TR",
+            "price": "608",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/145668-1-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "TECNO SPARK 10 PRO 8GB/256GB AY TUTULMASI AKILLI TELEFON",
+            "brand": "TECNO",
+            "modelNo": "Spark 10 Pro",
+            "price": "8799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tecno/thumb/140786-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "75"
+        },
+        {
+            "name": "ONVO 32OV6000H 32inc 82 cm HD READY Android Smart TV,Uydu Alıcılı",
+            "brand": "ONVO",
+            "modelNo": "32OV6000H",
+            "price": "5249",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/143871_small.jpg",
+            "categoryId": "7df2e402-8df8-49ea-fd5a-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "18"
+        },
+        {
+            "name": "iPhone 12 64 Gb Akıllı Telefon Beyaz",
+            "brand": "APPLE",
+            "modelNo": "iPhone 12",
+            "price": "28999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_small.jpg",
+            "categoryId": "20587827-24f8-4624-fd4d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "687"
+        },
+        {
+            "name": "Hp 250 G9 12.Nesil Core i5 1235U-16Gb-512Gb Ssd-15.6inc-W11",
+            "brand": "HP",
+            "modelNo": "250 G9",
+            "price": "17999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/146251-1-min_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "17"
+        },
+        {
+            "name": "Honor Pad X9 2.8Ghz 4Gb 128Gb 11,5''-Android Tablet",
+            "brand": "HONOR",
+            "modelNo": "Pad X9",
+            "price": "5999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/honor/thumb/140368-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "81"
+        },
+        {
+            "name": "Lenovo Tab M11 1.8Ghz 4Gb 128Gb 11inch FullHd -Android Tablet",
+            "brand": "LENOVO",
+            "modelNo": "Tab M11",
+            "price": "6999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/143438-1-2_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "34"
+        },
+        {
+            "name": "Asus Vivobook 15 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-W11",
+            "brand": "ASUS",
+            "modelNo": "Vivobook 15",
+            "price": "14999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/0000-layer-6_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "36"
+        },
+        {
+            "name": "Samsung Galaxy Tab A9+ 128Gb 8GB-11'' Android Tablet SM-X210NZAETUR Graphite",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab A9+",
+            "price": "6299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/142980-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "102"
+        },
+        {
+            "name": "Samsung Galaxy Tab A9+ 64Gb 4GB-11'' Android Tablet SM-X210NZAATUR Graphite",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab A9+",
+            "price": "5799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141967-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "117"
+        },
+        {
+            "name": "Asus Vivobook 15 12.Nesil Core i3 1215U-8Gb-256Gb Ssd-15.6inc-W11",
+            "brand": "ASUS",
+            "modelNo": "Vivobook 15",
+            "price": "10388",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/140845-1_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "17"
+        },
+        {
+            "name": "Samsung Galaxy Tab S6 Lite 1.7Ghz 128Gb 4Gb 10.4''Android Tablet SM-P620NZAETUR",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab S6 Lite",
+            "price": "7999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/144971-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "Samsung Galaxy Tab A9+ 128Gb 8GB-11'' Android Tablet SM-X210NDBETUR Blue",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab A9+",
+            "price": "6299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/142979-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "102"
+        },
+        {
+            "name": "Samsung Galaxy Tab A9+ 128Gb 8Gb-11'' Android Tablet SM-X210NZSETUR Gümüş",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab A9+",
+            "price": "6299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/142978-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "102"
+        },
+        {
+            "name": "Lenovo Tab M9 1.8Ghz 4Gb 64Gb 9inch Hd- Android Tablet",
+            "brand": "LENOVO",
+            "modelNo": "Tab M9",
+            "price": "3999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/untitled-1-3_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "46"
+        },
+        {
+            "name": "iPad 10.Nesil 64GB Wi-Fi 10.9''Liquid Retina Ekran iPadOS Tablet Gümüş",
+            "brand": "APPLE",
+            "modelNo": "iPad 10.Nesil",
+            "price": "15749",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/135958-1-2_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "133"
+        },
+        {
+            "name": "Lenovo LOQ 12.Nesil Core i5 12450HX-Arc A530M 4Gb-8Gb-512Gb Ssd-15.6-W11",
+            "brand": "LENOVO",
+            "modelNo": "LOQ",
+            "price": "22999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/144995-1-1_small.jpg",
+            "categoryId": "81ce2d3d-9041-42a9-fd40-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Dell Inspiron 15 3520 12.Nesil Core i5 1235U-8Gb-512Gb Ssd-15.6inc-W11",
+            "brand": "DELL",
+            "modelNo": "Inspiron 15",
+            "price": "15591",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dell/thumb/143018-1_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "7"
+        },
+        {
+            "name": "Samsung Galaxy Tab S9 Fe+ 128Gb 8GB-12.4''Android Tablet SM-X610NZAATUR Gri",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab S9 Fe Plus",
+            "price": "15399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141944-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "70"
+        },
+        {
+            "name": "Lenovo Ideapad Slim 3 12.Nesil Core i5 12450H-8Gb-512Gb Ssd-16inc-W11",
+            "brand": "LENOVO",
+            "modelNo": "Ideapad Slim 3",
+            "price": "17499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/145766-1_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "6"
+        },
+        {
+            "name": "Msi Thin 15 12.Nesil Core i5 12450H-RTX3050 4Gb-16Gb-512Gb Ssd-15.6inc-W11",
+            "brand": "MSI",
+            "modelNo": "Thin 15",
+            "price": "24999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/145795-1_small.jpg",
+            "categoryId": "81ce2d3d-9041-42a9-fd40-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Samsung Galaxy Tab S9 Fe 128Gb 6GB-10.9''Android Tablet SM-X510NZAATUR Gri",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab S9 Fe",
+            "price": "11499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141947-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "43"
+        },
+        {
+            "name": "Samsung Galaxy Tab A9 64Gb 4GB-8.7'' Android Tablet SM-X110NZAATUR Gri",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab A9",
+            "price": "3999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141971-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "45"
+        },
+        {
+            "name": "Hp Victus 16-r1058nt 14.Nesil Core i5 14500HX-RTX4050 6Gb-16Gb-512Gb-16.1inc-W11 Notebook",
+            "brand": "HP",
+            "modelNo": "Victus",
+            "price": "32999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/143362-1-2_small.jpg",
+            "categoryId": "81ce2d3d-9041-42a9-fd40-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "15"
+        },
+        {
+            "name": "Lenovo Ideapad 3 12.Nesil Core i3 1215U-8Gb-256Gb Ssd-15.6inc-W11",
+            "brand": "LENOVO",
+            "modelNo": "Ideapad 3 12.Nesil Core i3",
+            "price": "11999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/141727-1_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "13"
+        },
+        {
+            "name": "Samsung Galaxy Tab S9 Fe 128Gb 6GB-10.9''Android Tablet SM-X510NLIATUR Mor",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab S9 Fe",
+            "price": "11499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141949-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "43"
+        },
+        {
+            "name": "Samsung Galaxy Tab A9+ 64Gb 4GB-11'' Android Tablet SM-X210NZSATUR Gümüş",
+            "brand": "SAMSUNG",
+            "modelNo": "Galaxy Tab A9+",
+            "price": "4999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/141968-1_small.jpg",
+            "categoryId": "dc05e588-7c14-4b8a-fd46-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "117"
+        },
+        {
+            "name": "Huawei Matebook D15 11.Nesil Core i5 1155G7-8Gb-512Gb Ssd-15.6inc-W11",
+            "brand": "HUAWEI",
+            "modelNo": "53013PNP",
+            "price": "16599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/137110-1-1_small.jpg",
+            "categoryId": "d0dee15a-41fd-4676-fd3f-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "304"
+        },
+        {
+            "name": "ONVO 32OV6000H 32inc 82 cm HD READY Android Smart TV,Uydu Alıcılı",
+            "brand": "ONVO",
+            "modelNo": "32OV6000H",
+            "price": "5249",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/143871_small.jpg",
+            "categoryId": "7df2e402-8df8-49ea-fd5a-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "18"
+        },
+        {
+            "name": "LG OLED48C34 48inc 121 cm 4K OLED evo Sihirli Kumanda Uyumlu webOS Smart TV,Uydu Alıcılı",
+            "brand": "LG",
+            "modelNo": "OLED48C34LA",
+            "price": "31999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/138971-1-1_small.jpg",
+            "categoryId": "d59eae8c-05c9-4abe-fd5c-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "41"
+        },
+        {
+            "name": "SAMSUNG UE 55CU8000U 55inc 138 cm 4K UHD Smart TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "UE55CU8000UXTK",
+            "price": "25998",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/139661-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "7"
+        },
+        {
+            "name": "LG 55NANO81T 55 inç 139 cm 4K Smart TV AI Sihirli Kumanda HDR10 webOS24,Uydu Alıcılı",
+            "brand": "LG",
+            "modelNo": "55NANO81T",
+            "price": "27999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/0002-55nano81t6a-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "11"
+        },
+        {
+            "name": "Philips Ambilight TV The One 55PUS8508 55''(139 cm) 4K UHD Dolby Vision,Google",
+            "brand": "PHILIPS",
+            "modelNo": "55PUS8508",
+            "price": "25999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/140100-1_small.jpg",
+            "categoryId": "6d4945b6-763b-4c4e-fd58-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "66"
+        },
+        {
+            "name": "ONVO 43OV6000 43inc 109 cm FHD Android Smart TV,Uydu Alıcılı",
+            "brand": "ONVO",
+            "modelNo": "43OV6000F",
+            "price": "8149",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/145235_small.jpg",
+            "categoryId": "c076e6b9-00d6-40de-fd59-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "7"
+        },
+        {
+            "name": "ONVO OV50500 50inc 127 cm UHD webOS Smart TV,Uydu Alıcılı",
+            "brand": "ONVO",
+            "modelNo": "OV50500",
+            "price": "11699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/137704-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "90"
+        },
+        {
+            "name": "GRUNDIG 65GHU8500A 65inc 164 cm 4K UHD Google Smart TV,Uydu Alıcılı",
+            "brand": "GRUNDIG",
+            "modelNo": "65GHU8500A",
+            "price": "20999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/grundig/thumb/138565-1-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "30"
+        },
+        {
+            "name": "ONVO 32OV5000 32inc 82 cm HD READY TV,Uydu Alıcılı",
+            "brand": "ONVO",
+            "modelNo": "32OV5000H",
+            "price": "3999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/142455_small.jpg",
+            "categoryId": "7df2e402-8df8-49ea-fd5a-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "9"
+        },
+        {
+            "name": "ONVO 24OV6000 24inc 60 cm HD READY FRAMELESS Android Smart TV,Uydu Alıcılı",
+            "brand": "ONVO",
+            "modelNo": "24OV6000",
+            "price": "4399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/146261-1_small.jpg",
+            "categoryId": "7df2e402-8df8-49ea-fd5a-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "SAMSUNG UE 50CU8000U 50inc 125 cm 4K UHD Smart TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "UE50CU8000UXTK",
+            "price": "21839",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/139659-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "AXEN AX32DAL540 32inc 80 cm HD READY Webos Smart TV,Uydu Alıcılı",
+            "brand": "AXEN",
+            "modelNo": "AX32DAL540",
+            "price": "5299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/axen/thumb/140795-1_small.jpg",
+            "categoryId": "7df2e402-8df8-49ea-fd5a-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "14"
+        },
+        {
+            "name": "SAMSUNG QE 65Q60D 65inc 163 cm 4K UHD Smart QLED TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "QE 65Q60D",
+            "price": "42399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/145208-1_small.jpg",
+            "categoryId": "a7b0e3ce-8224-48e2-fd5d-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "SAMSUNG UE 65DU7000 65inc 163 cm 4K UHD Smart TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "UE 65DU7000",
+            "price": "32958",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/145229-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "3"
+        },
+        {
+            "name": "GRUNDIG 55GHU8500A 55inc 139 cm 4K UHD Google Smart TV,Uydu Alıcılı",
+            "brand": "GRUNDIG",
+            "modelNo": "55GHU8500A",
+            "price": "19699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/grundig/thumb/0001-layer-3_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "26"
+        },
+        {
+            "name": "SAMSUNG UE 75DU7100 75inc 189 cm 4K UHD Smart TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "UE 75DU7100",
+            "price": "39999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/145220-1-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "SAMSUNG UE 43CU8000 43inc 108 cm 4K UHD Smart TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "UE43CU8000UXTK",
+            "price": "18399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/139486-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "TCL 55C645 55inc 139 cm 4K UHD Google Tv Smart Qled TV,Uydu Alıcılı",
+            "brand": "TCL",
+            "modelNo": "55C645GTV",
+            "price": "26899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tcl/thumb/140423-1_small.jpg",
+            "categoryId": "a7b0e3ce-8224-48e2-fd5d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "56"
+        },
+        {
+            "name": "LG 65QNED80T 65 inç 165 cm 4K Smart TV AI Sihirli Kumanda HDR10 webOS24,Uydu Alıcılı",
+            "brand": "LG",
+            "modelNo": "65QNED80T6A",
+            "price": "47999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/145511-1_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "3"
+        },
+        {
+            "name": "TCL 65C745 65inc 164 cm 4K UHD Google Tv Smart Qled TV,Uydu Alıcılı",
+            "brand": "TCL",
+            "modelNo": "65C745GTV",
+            "price": "40999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tcl/thumb/0001-layer-5_small.jpg",
+            "categoryId": "a7b0e3ce-8224-48e2-fd5d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "54"
+        },
+        {
+            "name": "LG 55QNED80T 55 inç 139 cm 4K Smart TV AI Sihirli Kumanda HDR10 webOS24,Uydu Alıcılı",
+            "brand": "LG",
+            "modelNo": "55QNED80T6A",
+            "price": "32999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/145509-1-3_small.jpg",
+            "categoryId": "908f084c-cda3-47a6-fd5e-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "SAMSUNG QE 50Q60C 50inc 125 cm 4K UHD Smart QLED TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "QE50Q60CAUXTK",
+            "price": "26559",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/139958-1_small.jpg",
+            "categoryId": "a7b0e3ce-8224-48e2-fd5d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "29"
+        },
+        {
+            "name": "SAMSUNG QE 55Q60D 55inc 138 cm 4K UHD Smart QLED TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "QE 55Q60D",
+            "price": "33918",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/146088-1_small.jpg",
+            "categoryId": "a7b0e3ce-8224-48e2-fd5d-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "SAMSUNG QE 65Q70D 65inc 163 cm 4K UHD Smart QLED TV,Uydu Alıcılı",
+            "brand": "SAMSUNG",
+            "modelNo": "QE 65Q70D",
+            "price": "53039",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/145215-1-2_small.jpg",
+            "categoryId": "a7b0e3ce-8224-48e2-fd5d-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "11"
+        },
+        {
+            "name": "Crucial 1TB P3 Plus Serisi 3D NVMe M.2 SSD (Okuma 5000MB/ Yazma 3600MB)",
+            "brand": "CRUCIAL",
+            "modelNo": "P3 Plus",
+            "price": "3093",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/crucial/thumb/144208-1_small.jpg",
+            "categoryId": "4c42cdc5-bde7-4238-8ff6-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "14"
+        },
+        {
+            "name": "LEXAR THOR 16GB (2x8GB) DDR4 3200Mhz CL18 1.35V PC Ram",
+            "brand": "LEXAR",
+            "modelNo": "Thor",
+            "price": "1682",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lexar/thumb/144817-1_small.jpg",
+            "categoryId": "7e482881-18d0-42fd-8ffa-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Lenovo 400 Kablosuz Mouse",
+            "brand": "LENOVO",
+            "modelNo": "GY50R91293",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/137791-1_small.jpg",
+            "categoryId": "54344dc4-939e-4513-8ffd-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Intel Core i5 12400F Soket 1700 12. Nesil 2.50GHz 18MB Önbellek 10nm İşlemci",
+            "brand": "INTEL",
+            "modelNo": "Core i5 12400F Soket 1700 12. Nesil",
+            "price": "4648",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/132750-1_small.jpg",
+            "categoryId": "ee586af8-80e8-4989-8ff8-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "57"
+        },
+        {
+            "name": "KINGSTON 64GB DataTraveler Exodia USB 3.2 USB Bellek",
+            "brand": "KINGSTON",
+            "modelNo": "64GB Data Traveler Exodia USB",
+            "price": "233",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kingston/thumb/110781_small.jpg",
+            "categoryId": "8d4b8d1c-2f47-4aa0-8ffb-08dcb612b449",
+            "rating": "60",
+            "ratingCount": "5"
+        },
+        {
+            "name": "ZOTAC GeForce RTX 4060 GAMING TWIN EDGE 8GB GDDR6 128Bit Ekran Kartı",
+            "brand": "ZOTAC",
+            "modelNo": "ZT-D40600E-10M",
+            "price": "11999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zotac/thumb/140414-1_small.jpg",
+            "categoryId": "2499b153-3c75-48c6-9001-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "56"
+        },
+        {
+            "name": "KIOXIA 500GB Exceria Serisi NVMe M.2 SSD (1700MB Okuma / 1600MB Yazma)",
+            "brand": "KIOXIA",
+            "modelNo": "500GB Exceria Serisi NVMe M.2 SSD",
+            "price": "1633",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kioxia/thumb/117084_small.jpg",
+            "categoryId": "4c42cdc5-bde7-4238-8ff6-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "293"
+        },
+        {
+            "name": "GIGABYTE H610M H V2 Intel H610 Soket 1700 DDR4 3200MHz M.2 Anakart",
+            "brand": "GIGABYTE",
+            "modelNo": "H610M H V2 DDR4",
+            "price": "3120",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/gigabyte/thumb/139185-1_small.jpg",
+            "categoryId": "f4acc592-945f-44a2-8fff-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "Verbatim 32GB Store N Go V3 USB 3.2 USB Bellek",
+            "brand": "VERBATIM",
+            "modelNo": "49173",
+            "price": "165",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/verbatim/thumb/49173-1_small.jpg",
+            "categoryId": "8d4b8d1c-2f47-4aa0-8ffb-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "KINGSTON 128GB DataTraveler Exodia USB 3.2 USB Bellek",
+            "brand": "KINGSTON",
+            "modelNo": "DTX/128GB",
+            "price": "379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kingston/thumb/127635_small.jpg",
+            "categoryId": "8d4b8d1c-2f47-4aa0-8ffb-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "MSI MAG FORGE M100A D60 AKRİLİK YAN PANEL ARGB FAN 600W 80 PLUS mATX KASA",
+            "brand": "MSI",
+            "modelNo": "MSI MAG FORGE M100A D60",
+            "price": "3181",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/msi/thumb/139973-1_small.jpg",
+            "categoryId": "8aa4bebf-16a6-4a5e-9006-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "5"
+        },
+        {
+            "name": "XPG 8GB (1x8GB) Gammix D35 Siyah DDR4 3200MHz CL16 1.35V PC Ram",
+            "brand": "XPG",
+            "modelNo": "AX4U32008G16A-SBKD35",
+            "price": "668",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xpg/thumb/140553-1-1_small.jpg",
+            "categoryId": "7e482881-18d0-42fd-8ffa-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "Logitech G G203 Lightsync RGB Aydınlatmalı 8000 DPI Kablolu Oyuncu Mouse - Siyah",
+            "brand": "LOGITECH",
+            "modelNo": "910-005796",
+            "price": "659",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/logitech/thumb/TeoriV2-108018_small.jpg",
+            "categoryId": "b38e4a31-122e-404f-9004-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "37"
+        },
+        {
+            "name": "Logitech M330 Sessiz Kablosuz Optik Mouse - Siyah",
+            "brand": "LOGITECH",
+            "modelNo": "910-004909",
+            "price": "739",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/logitech/thumb/v2-84658_small.jpg",
+            "categoryId": "54344dc4-939e-4513-8ffd-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "Logitech MK295 Sessiz Kablosuz Türkçe Q Klavye Mouse Seti - Siyah",
+            "brand": "LOGITECH",
+            "modelNo": "920-009804",
+            "price": "949",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/logitech/thumb/110695_small.jpg",
+            "categoryId": "2e7d4664-36b4-424a-9008-08dcb612b449",
+            "rating": "60",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Logitech M171 USB Alıcılı Kablosuz Kompakt Mouse - Siyah",
+            "brand": "LOGITECH",
+            "modelNo": "910-004424",
+            "price": "439",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/logitech/thumb/v2-82175_small.jpg",
+            "categoryId": "54344dc4-939e-4513-8ffd-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "ZALMAN 2g 11.5w/m.K Yüksek Performans Termal Macun",
+            "brand": "ZALMAN",
+            "modelNo": "ZM-STC10",
+            "price": "236",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zalman/thumb/142901-1_small.jpg",
+            "categoryId": "28790705-1385-4649-9003-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Steelseries Rival 3 RGB Gaming Mouse Siyah",
+            "brand": "STEELSERIES",
+            "modelNo": "SSM62513",
+            "price": "799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/steelseries/thumb/137436-1_small.jpg",
+            "categoryId": "b38e4a31-122e-404f-9004-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Verbatim 64GB Store N Go V3 USB 3.2 USB Bellek",
+            "brand": "VERBATIM",
+            "modelNo": "49174",
+            "price": "191",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/verbatim/thumb/138752-1_small.jpg",
+            "categoryId": "8d4b8d1c-2f47-4aa0-8ffb-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "XPG Lancer Blade Siyah DDR5-5600Mhz CL46 8GB (1x8GB) Single Ram",
+            "brand": "XPG",
+            "modelNo": "Lancer Blade",
+            "price": "1447",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xpg/thumb/145355-1_small.jpg",
+            "categoryId": "7e482881-18d0-42fd-8ffa-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "KINGSTON 64GB DataTraveler Exodia Onyx 3.2 USB Bellek",
+            "brand": "KINGSTON",
+            "modelNo": "DTXON/64GB",
+            "price": "233",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kingston/thumb/138435-1_small.jpg",
+            "categoryId": "8d4b8d1c-2f47-4aa0-8ffb-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "3"
+        },
+        {
+            "name": "AMD Ryzen™5 5500 Soket AM4 4.2 GHz 19MB 65W 7nm İşlemci",
+            "brand": "AMD",
+            "modelNo": "Ryzen 5 5500",
+            "price": "3931",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/amd/thumb/3_small.jpg",
+            "categoryId": "22e217df-c1ed-4cb2-900b-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "56"
+        },
+        {
+            "name": "Logitech M220 Sessiz Kompakt Kablosuz Mouse - Siyah",
+            "brand": "LOGITECH",
+            "modelNo": "910-004878",
+            "price": "559",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/logitech/thumb/v2-84054_small.jpg",
+            "categoryId": "54344dc4-939e-4513-8ffd-08dcb612b449",
+            "rating": "60",
+            "ratingCount": "7"
+        },
+        {
+            "name": "Rampage TM-501 1g 5.15w/m.K Gri Slim Tüp Termal Macun",
+            "brand": "RAMPAGE",
+            "modelNo": "TM-501",
+            "price": "126",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/rampage/thumb/136122-1_small.jpg",
+            "categoryId": "28790705-1385-4649-9003-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sunny Flora Çelik Su Isıtıcı & Kettle",
+            "brand": "SUNNY",
+            "modelNo": "FLORA",
+            "price": "389",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sunny/thumb/137401-1_small.jpg",
+            "categoryId": "1472a1bd-33d7-4115-9016-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "QU 850P ŞARJLI DAMACANA SU POMPASI",
+            "brand": "QU",
+            "modelNo": "QU850P",
+            "price": "189",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/qu/thumb/0003-146418_small.jpg",
+            "categoryId": "86d2b103-656d-4080-9017-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "ASONIC AS-A29 6W+ 2000V İKİ LEDLİ SİNEK ÖLDÜRÜCÜ",
+            "brand": "ASONIC",
+            "modelNo": "ASA29",
+            "price": "499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asonic/thumb/138570-1_small.jpg",
+            "categoryId": "3806d5a1-cb34-475b-9015-08dcb612b449",
+            "rating": "60",
+            "ratingCount": "3"
+        },
+        {
+            "name": "ASONIC S24 4W SİYAH LED IŞIKLI SİNEK ÖLDÜRÜCÜ",
+            "brand": "ASONIC",
+            "modelNo": "S24",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asonic/thumb/139174-1_small.jpg",
+            "categoryId": "3806d5a1-cb34-475b-9015-08dcb612b449",
+            "rating": "20",
+            "ratingCount": "1"
+        },
+        {
+            "name": "BRİTA MAXTRA PRO İKİLİ FİLTRE KARTUŞU",
+            "brand": "BRITA",
+            "modelNo": "MAXTRA PRO İKİLİ FİLTRE",
+            "price": "339",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brita/thumb/142813-1_small.jpg",
+            "categoryId": "3f33680d-b782-413b-9014-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "BRITA MAXTRA PRO DÖRTLÜ FİLTRE KARTUŞU",
+            "brand": "BRITA",
+            "modelNo": "MAXTRA PRO DÖRTLÜ FİLTRE",
+            "price": "599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brita/thumb/142814-1-2_small.jpg",
+            "categoryId": "3f33680d-b782-413b-9014-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "BRITA MAXTRA PRO ALTILI FİLTRE KARTUŞU",
+            "brand": "BRITA",
+            "modelNo": "MAXTRA PRO ALTILI FİLTRE",
+            "price": "859",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brita/thumb/142815-1_small.jpg",
+            "categoryId": "3f33680d-b782-413b-9014-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Tefal Gourmet Minute Izgara ve Tost Makinesi",
+            "brand": "TEFAL",
+            "modelNo": "GOURMET MINUTE",
+            "price": "3999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tefal/thumb/v2-92595_small.jpg",
+            "categoryId": "537931d0-e74d-4a0f-fd68-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "5"
+        },
+        {
+            "name": "QU 950P ŞARJLI KATLANABİLİR DAMACANA SU POMPASI",
+            "brand": "QU",
+            "modelNo": "QU950P",
+            "price": "229",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/qu/thumb/0002-146419_small.jpg",
+            "categoryId": "86d2b103-656d-4080-9017-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "PHILIPS HD7462/20 DAILY COLLECTION KAHVE MAKİNESİ",
+            "brand": "PHILIPS",
+            "modelNo": "HD7462/20",
+            "price": "2199",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/v2-91942_small.jpg",
+            "categoryId": "7fd0b6af-51bf-4bcd-9021-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "PHILIPS HDA150/60 Türk Kahvesi Makinesi (Siyah/Bakır)",
+            "brand": "PHILIPS",
+            "modelNo": "HDA150/60",
+            "price": "2299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/142453-1_small.jpg",
+            "categoryId": "5f860455-83a8-477e-9019-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Arzum OK004-K Okka Minio Türk Kahve Makinesi (Krom Renkli)",
+            "brand": "ARZUM",
+            "modelNo": "OK004-K",
+            "price": "1399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/v2-84719_small.jpg",
+            "categoryId": "5f860455-83a8-477e-9019-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "12"
+        },
+        {
+            "name": "Philips HD9350/90 Daily Collection Su Isıtıcı & Kettle",
+            "brand": "PHILIPS",
+            "modelNo": "HD9350/90",
+            "price": "1599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/v2-88493_small.jpg",
+            "categoryId": "1472a1bd-33d7-4115-9016-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "ARZUM AR 1140 BLANCO MİNİ BLENDER SETİ",
+            "brand": "ARZUM",
+            "modelNo": "AR1140",
+            "price": "1379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/134394-1_small.jpg",
+            "categoryId": "e921ba2c-8248-44dd-901f-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Philips HD9257/80 3000 Serisi Airfryer XL (5.6 Lt)",
+            "brand": "PHILIPS",
+            "modelNo": "HD9257/80",
+            "price": "5499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/142301-1_small.jpg",
+            "categoryId": "67d51030-016e-4207-901d-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "42"
+        },
+        {
+            "name": "Fakir Kaave Plus Türk Kahve Makinesi (Copper)",
+            "brand": "FAKIR",
+            "modelNo": "KAAVE PLUS (COPPER)",
+            "price": "1599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/fakir/thumb/138571-1-1_small.jpg",
+            "categoryId": "5f860455-83a8-477e-9019-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "Philips HD9285/96 5000 Serisi Connected Airfryer XXL",
+            "brand": "PHILIPS",
+            "modelNo": "HD9285/96",
+            "price": "6999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/137890-1_small.jpg",
+            "categoryId": "67d51030-016e-4207-901d-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "25"
+        },
+        {
+            "name": "BRITA MAXTRA PRO KİREÇ UZMANI ALTILI FİLTRE KARTUŞU",
+            "brand": "BRITA",
+            "modelNo": "MAXTRA PRO KİREÇ UZMANI ALTILI FİLTRE",
+            "price": "969",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brita/thumb/142816-1_small.jpg",
+            "categoryId": "3f33680d-b782-413b-9014-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Arzum OK004 Okka Minio Türk Kahve Makinesi (Bakır Renkli)",
+            "brand": "ARZUM",
+            "modelNo": "OK004",
+            "price": "1399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/v2-83553_small.jpg",
+            "categoryId": "5f860455-83a8-477e-9019-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "12"
+        },
+        {
+            "name": "Philips HR3705/10 Daily Collection Mikser",
+            "brand": "PHILIPS",
+            "modelNo": "HR3705/10",
+            "price": "999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/v2-92320_small.jpg",
+            "categoryId": "afce655e-c050-4d8a-fd71-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "30"
+        },
+        {
+            "name": "BRITA MARELLA XL 2 FİLTRELİ SÜRAHİ PAKETİ PRO-BEYAZ 3,5 LT",
+            "brand": "BRITA",
+            "modelNo": "MARELLA XL PRO BEYAZ",
+            "price": "779",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brita/thumb/142810-1_small.jpg",
+            "categoryId": "6e6b3d86-cc4f-4c8a-901a-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "ARZUM AR 1157-S FORTE MULTİ BLENDER SETİ",
+            "brand": "ARZUM",
+            "modelNo": "AR1157-S",
+            "price": "1499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/139031-1_small.jpg",
+            "categoryId": "e921ba2c-8248-44dd-901f-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "Arzum AR3134 Dreamtea Çaycı & Çay Makinesi",
+            "brand": "ARZUM",
+            "modelNo": "AR3134",
+            "price": "1379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/137581-1_small.jpg",
+            "categoryId": "7790c3cb-57d0-4003-9020-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Philips HD9870/20 Premium Airfryer XXL",
+            "brand": "PHILIPS",
+            "modelNo": "HD9870/20",
+            "price": "7999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/1-133957_small.jpg",
+            "categoryId": "67d51030-016e-4207-901d-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "18"
+        },
+        {
+            "name": "Luxell LXF-518 S Ayaklı Siyah Vantilatör",
+            "brand": "LUXELL",
+            "modelNo": "LXF-518 S",
+            "price": "1999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/luxell/thumb/139048-1-1_small.jpg",
+            "categoryId": "6e551b3f-a922-4760-9029-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "13"
+        },
+        {
+            "name": "Philips DST7510/80 Azur 7500 Buharlı Ütü",
+            "brand": "PHILIPS",
+            "modelNo": "DST7510/80",
+            "price": "2999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/136979-1_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "42"
+        },
+        {
+            "name": "Sinbo SF-6787 Sanayi Tipi Vantilatör",
+            "brand": "SINBO",
+            "modelNo": "SF-6787",
+            "price": "1899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sinbo/thumb/145996-1_small.jpg",
+            "categoryId": "6e551b3f-a922-4760-9029-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "13"
+        },
+        {
+            "name": "PHILIPS XB7150/07 MARATHON DAILY TOZ TORBASIZ SÜPÜRGE",
+            "brand": "PHILIPS",
+            "modelNo": "PHILIPS XB7150/07 MARATHON",
+            "price": "7399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/139636-1_small.jpg",
+            "categoryId": "5bae6f14-85ce-4155-902c-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "21"
+        },
+        {
+            "name": "PHILIPS FC9331/07 POWERPRO CITY TOZ TORBASIZ ELEKTRİKLİ SÜPÜRGE",
+            "brand": "PHILIPS",
+            "modelNo": "FC9331/07",
+            "price": "4499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/v2-87848-6_small.jpg",
+            "categoryId": "5bae6f14-85ce-4155-902c-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "35"
+        },
+        {
+            "name": "Roborock Q7 MAX Robot Süpürge Beyaz",
+            "brand": "ROBOROCK",
+            "modelNo": "Q7 MAX",
+            "price": "13699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roborock/thumb/136240-1_small.jpg",
+            "categoryId": "b1b126c9-1c5b-4ab9-902b-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "22"
+        },
+        {
+            "name": "Philips DST8030/70 Azur Serisi Buharlı Ütü",
+            "brand": "PHILIPS",
+            "modelNo": "DST8030/70",
+            "price": "4099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/136207-1_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "19"
+        },
+        {
+            "name": "CVS DN 3014 Pulsar Fanlı Isıtıcı",
+            "brand": "CVS",
+            "modelNo": "DN 3014",
+            "price": "709",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cvs/thumb/135941-1_small.jpg",
+            "categoryId": "18e4d70a-d732-4741-902e-08dcb612b449",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Roborock Q8 Max Robot Süpürge Beyaz",
+            "brand": "ROBOROCK",
+            "modelNo": "Q8 Max",
+            "price": "18999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roborock/thumb/142442-1_small.jpg",
+            "categoryId": "b1b126c9-1c5b-4ab9-902b-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "49"
+        },
+        {
+            "name": "Xiaomi Robot Vacuum S10+ Robot Süpürge",
+            "brand": "XIAOMI",
+            "modelNo": "Xıaomı S10+",
+            "price": "11799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/139817-1_small.jpg",
+            "categoryId": "b1b126c9-1c5b-4ab9-902b-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "45"
+        },
+        {
+            "name": "Philips XW9383/01 AquaTrio 9000 Serisi Kablosuz Islak ve Kuru Dikey Elektrikli Süpürge",
+            "brand": "PHILIPS",
+            "modelNo": "XW9383/01 AquaTrio 9000",
+            "price": "21499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/139306-1_small.jpg",
+            "categoryId": "5d57cb94-f6c2-44d7-902d-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "26"
+        },
+        {
+            "name": "PHILIPS XB9155/07 MARATHON ULTIMATE TOZ TORBASIZ SÜPÜRGE",
+            "brand": "PHILIPS",
+            "modelNo": "XB9155/07",
+            "price": "10799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/TeoriV2-103933_small.jpg",
+            "categoryId": "5bae6f14-85ce-4155-902c-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "31"
+        },
+        {
+            "name": "Luxell LX-518 B Ayaklı Beyaz Vantilatör",
+            "brand": "LUXELL",
+            "modelNo": "LX-518 B",
+            "price": "1999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/luxell/thumb/144883-1_small.jpg",
+            "categoryId": "6e551b3f-a922-4760-9029-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "8"
+        },
+        {
+            "name": "Philips DST5020/30 Buharlı Ütü",
+            "brand": "PHILIPS",
+            "modelNo": "DST5020/30",
+            "price": "1499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/123248-11_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "18"
+        },
+        {
+            "name": "Tefal FV9850 Pure Max Anti-Calc Buharlı Ütü 3200 Watt",
+            "brand": "TEFAL",
+            "modelNo": "FV9850",
+            "price": "3299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tefal/thumb/130763-1_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "11"
+        },
+        {
+            "name": "Roborock S8 Sonic Robot Süpürge Beyaz",
+            "brand": "ROBOROCK",
+            "modelNo": "S8 Sonic",
+            "price": "24999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roborock/thumb/141356-1_small.jpg",
+            "categoryId": "b1b126c9-1c5b-4ab9-902b-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "76"
+        },
+        {
+            "name": "Philips PSG6042/20 PerfectCare 6000 Serisi Kazanlı Ütü",
+            "brand": "PHILIPS",
+            "modelNo": "PSG6042/20",
+            "price": "5999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/136981-1_small.jpg",
+            "categoryId": "cb299279-2744-4666-9030-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "6"
+        },
+        {
+            "name": "Philips XC7043/01 Speedpro Max Şarjlı Dikey Süpürge",
+            "brand": "PHILIPS",
+            "modelNo": "XC7043/01",
+            "price": "10499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/0000-layer-5_small.jpg",
+            "categoryId": "5d57cb94-f6c2-44d7-902d-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "65"
+        },
+        {
+            "name": "Roborock Q5 Pro Akıllı Robot Süpürge",
+            "brand": "ROBOROCK",
+            "modelNo": "Q5 Pro",
+            "price": "14999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roborock/thumb/143256-0_small.jpg",
+            "categoryId": "b1b126c9-1c5b-4ab9-902b-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "Arzum AR6021 Listo Buharlı Ütü",
+            "brand": "ARZUM",
+            "modelNo": "AR6021",
+            "price": "849",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/127637_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "Xıaomı Mi Air Purifier 4 Lite Hava Temizleyici",
+            "brand": "XIAOMI",
+            "modelNo": "Mi Air Purifier 4 Lite",
+            "price": "4999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/1-133526_small.jpg",
+            "categoryId": "346de2a6-fce6-4a21-9032-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "11"
+        },
+        {
+            "name": "Fakir Windease Kule Tipi Vantilatör Beyaz",
+            "brand": "FAKIR",
+            "modelNo": "WINDEASE",
+            "price": "6499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/fakir/thumb/145696-1_small.jpg",
+            "categoryId": "6e551b3f-a922-4760-9029-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "12"
+        },
+        {
+            "name": "Philips DST7012/70 7000 Serisi Buharlı Ütü",
+            "brand": "PHILIPS",
+            "modelNo": "DST7012/70",
+            "price": "1699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/137896-1_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "Philips DST7040/80 7000 Serisi Buharlı Ütü",
+            "brand": "PHILIPS",
+            "modelNo": "DST7040/80",
+            "price": "2329",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/137897-1_small.jpg",
+            "categoryId": "a44c189d-7602-4032-902a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "11"
+        },
+        {
+            "name": "PHILIPS MG3720/15 3000 SERİSİ 7'Sİ1 ARADA ERKEK BAKIM KİTİ",
+            "brand": "PHILIPS",
+            "modelNo": "MG3720/15",
+            "price": "999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/90868-1_small.jpg",
+            "categoryId": "de182a3d-09bf-41f4-903a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "51"
+        },
+        {
+            "name": "PHILIPS QP2824/10 ONE BLADE YÜZ + VÜCUT",
+            "brand": "PHILIPS",
+            "modelNo": "QP2824/10",
+            "price": "1229",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/138509-1-1_small.jpg",
+            "categoryId": "faad3f69-e336-49f7-903c-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "19"
+        },
+        {
+            "name": "PHILIPS QP630/51 ONE BLADE YEDEK BIÇAK (3'Lü)",
+            "brand": "PHILIPS",
+            "modelNo": "QP630/51",
+            "price": "719",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/139192-1_small.jpg",
+            "categoryId": "1bd0e831-c22d-4966-903d-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "PHILIPS QP2724/10 ONE BLADE YÜZ ŞEKİLLENDİRİCİ",
+            "brand": "PHILIPS",
+            "modelNo": "QP2724/10",
+            "price": "949",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/138508-1-1_small.jpg",
+            "categoryId": "faad3f69-e336-49f7-903c-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "PHILIPS MG7920/15 13'Ü 1 ARADA ERKEK BAKIM KİTİ (SAÇ,SAKAL,VÜCUT)",
+            "brand": "PHILIPS",
+            "modelNo": "MG7920/15",
+            "price": "1899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/142056-1_small.jpg",
+            "categoryId": "de182a3d-09bf-41f4-903a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "11"
+        },
+        {
+            "name": "Philips BRI921/00 Lumea Advanced IPLS Epilasyon Cihazı",
+            "brand": "PHILIPS",
+            "modelNo": "Lumea",
+            "price": "10999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/91936-1_small.jpg",
+            "categoryId": "e3e729cd-971f-4768-903f-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "Remington S8540 Keratin Protect Saç Düzleştirici",
+            "brand": "REMINGTON",
+            "modelNo": "S8540",
+            "price": "2599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/remington/thumb/v2-88707_small.jpg",
+            "categoryId": "91a18aeb-37a8-4f80-9040-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "66"
+        },
+        {
+            "name": "PHILIPS HX6062/10 SONICARE W OPTIMAL WHITE YEDEK BAŞLIK (BEYAZ)",
+            "brand": "PHILIPS",
+            "modelNo": "HX6062/10",
+            "price": "599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/109140_small.jpg",
+            "categoryId": "485fbc3b-60a3-4189-9045-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Arzum AR5011 İmaj Saç Kurutma Makinesi",
+            "brand": "ARZUM",
+            "modelNo": "AR5011",
+            "price": "749",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/86468_small.jpg",
+            "categoryId": "2c335845-9268-4e4a-903e-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "6"
+        },
+        {
+            "name": "PHILIPS QP220/51 ONE BLADE YEDEK BIÇAK (2'Lİ)",
+            "brand": "PHILIPS",
+            "modelNo": "QP220/51",
+            "price": "599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/142054-1_small.jpg",
+            "categoryId": "1bd0e831-c22d-4966-903d-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "9"
+        },
+        {
+            "name": "PHILIPS MG7950/15 15'İ 1 ARADA ERKEK BAKIM KİTİ (SAÇ,SAKAL,VÜCUT)",
+            "brand": "PHILIPS",
+            "modelNo": "MG7950/15",
+            "price": "2369",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/142058-1_small.jpg",
+            "categoryId": "de182a3d-09bf-41f4-903a-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "ARZUM AR5063 VOLUME PRO HAVA ÜFLEMELİ SAÇ ŞEKİLLENDİRİCİ",
+            "brand": "ARZUM",
+            "modelNo": "AR5063",
+            "price": "1519",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/114487_small.jpg",
+            "categoryId": "872ffb85-dc30-403d-9044-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "16"
+        },
+        {
+            "name": "Philips BRI950/00 Lumea Prestige IPL Epilasyon Cihazı (Kablolu/Kablosuz)",
+            "brand": "PHILIPS",
+            "modelNo": "Lumea Prestige",
+            "price": "15999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/90573-1_small.jpg",
+            "categoryId": "e3e729cd-971f-4768-903f-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "Oral B D103 Vitality Pro Cross Action Şarjlı Diş Fırçası (Siyah)",
+            "brand": "BRAUN",
+            "modelNo": "D103 SİYAH",
+            "price": "1199",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/braun/thumb/136500-1_small.jpg",
+            "categoryId": "a1e5cbf4-abd7-416f-9041-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "Philips BRE700/05 8000 Serisi Islak ve Kuru Epilasyon Cihazı",
+            "brand": "PHILIPS",
+            "modelNo": "BRE700/05",
+            "price": "1799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/TeoriV2-107683_small.jpg",
+            "categoryId": "fc149fd9-a7c2-4efe-9042-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "10"
+        },
+        {
+            "name": "Remington S505 Pro Ceramic Ultra Saç Düzleştirici",
+            "brand": "REMINGTON",
+            "modelNo": "S5505",
+            "price": "1899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/remington/thumb/v2-88698_small.jpg",
+            "categoryId": "91a18aeb-37a8-4f80-9040-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "6"
+        },
+        {
+            "name": "Fakir Hercules Vücut Analiz Baskülü",
+            "brand": "FAKIR",
+            "modelNo": "HERCULES",
+            "price": "899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/fakir/thumb/v2-63408-1_small.jpg",
+            "categoryId": "a5a36739-e100-4f12-fd7c-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Oral B Pro 3 3500 Serisi Şarjlı Diş Fırçası (Siyah)+ Seyahat Kabı Hediyeli",
+            "brand": "BRAUN",
+            "modelNo": "PRO3500 (BLACK)",
+            "price": "1799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/braun/thumb/128989_small.jpg",
+            "categoryId": "a1e5cbf4-abd7-416f-9041-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "12"
+        },
+        {
+            "name": "ORAL B EB18 3DW 3+1 YEDEK DİŞ FIRÇASI",
+            "brand": "BRAUN",
+            "modelNo": "EB18 3DW 3+1",
+            "price": "399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/braun/thumb/v2-75780-3_small.jpg",
+            "categoryId": "485fbc3b-60a3-4189-9045-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "ARZUM AR5036 SUPERSTAR SAÇ DÜZLEŞTİRİCİ FIRÇA",
+            "brand": "ARZUM",
+            "modelNo": "AR5036",
+            "price": "899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/arzum/thumb/v2-87501_small.jpg",
+            "categoryId": "5e3f7217-a10a-45b7-9043-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Philips BRE255/05 Satinelle Essential Kablolu Kompakt Epilasyon Cihazı",
+            "brand": "PHILIPS",
+            "modelNo": "BRE255/05",
+            "price": "1139",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/v2-93692_small.jpg",
+            "categoryId": "fc149fd9-a7c2-4efe-9042-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "Grundig HD8082 Saç Kurutma Makinesi (AC Motorlu - 2300 Watt)",
+            "brand": "GRUNDIG",
+            "modelNo": "HD8082",
+            "price": "1199",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/grundig/thumb/129798_small.jpg",
+            "categoryId": "2c335845-9268-4e4a-903e-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "8"
+        },
+        {
+            "name": "GRUNDIG MGK 7230 L PROCLUB ERKEK BAKIM SETİ",
+            "brand": "GRUNDIG",
+            "modelNo": "MGK7230",
+            "price": "2499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/grundig/thumb/145769-1_small.jpg",
+            "categoryId": "de182a3d-09bf-41f4-903a-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "PHILIPS MG5940/15 12'Sİ BİR ARADA ERKEK BAKIM KİTİ",
+            "brand": "PHILIPS",
+            "modelNo": "MG5940/15",
+            "price": "1699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/144205-1_small.jpg",
+            "categoryId": "de182a3d-09bf-41f4-903a-08dcb612b449",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Samsung Evo Plus 128 GB Adaptörlü Hafıza Kartı (160MB/S)",
+            "brand": "SAMSUNG",
+            "modelNo": "MB-MC128SA/TR",
+            "price": "608",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/145668-1-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme Pro 128 GB Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSQXCD-128G-GN6MA",
+            "price": "949",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/137457-1-2_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme Pro 64 GB Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSQXCU-064G-GN6MA",
+            "price": "529",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/137456-1-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme Pro 256 GB Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSQXCD-256G-GN6MA",
+            "price": "1799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/138028-1-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Samsung Evo Plus 256 GB 4K Adaptörlü Hafıza Kartı (160MB/S)",
+            "brand": "SAMSUNG",
+            "modelNo": "MB-MC256SA/TR",
+            "price": "1517",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/146145-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Adata Premier 32 GB Micro SD Hafıza Kartı (100MB/sn-25MB/sn)",
+            "brand": "ADATA",
+            "modelNo": "AUSDH32GUICL10A1-RA1",
+            "price": "227",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/adata/thumb/137906-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Verbatim Pro 32 GB Adaptörlü Hafıza Kartı (90MB/S-45MB/S)",
+            "brand": "VERBATIM",
+            "modelNo": "47041",
+            "price": "217",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/verbatim/thumb/138121-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Kingston Canvas Select Plus 64 GB Class 10 Adaptörlü Hafıza Kartı (100MB/S)",
+            "brand": "KINGSTON",
+            "modelNo": "SDCS2/64GB",
+            "price": "247",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kingston/thumb/109164-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Adata Premier 64 GB Micro SD Hafıza Kartı (80MB/sn-25MB/sn)",
+            "brand": "ADATA",
+            "modelNo": "AUSDX64GUICL10-RA1",
+            "price": "272",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/adata/thumb/137910-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Adata Premier 64 GB Micro SD Hafıza Kartı (100MB/sn-25MB/sn)",
+            "brand": "ADATA",
+            "modelNo": "AUSDX64GUICL10A1-RA1",
+            "price": "304",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/adata/thumb/137909-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Adata Premier 32 GB Micro SD Hafıza Kartı (80MB/sn-25MB/sn)",
+            "brand": "ADATA",
+            "modelNo": "AUSDH32GUICL10-RA1",
+            "price": "207",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/adata/thumb/137907-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme Pro 64 GB SDHC Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSDXXU-64G-GN4IN",
+            "price": "629",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/sandisk_small.jpg",
+            "categoryId": "9f285b36-cd02-4df0-32eb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Adata Premier 128 GB Micro SD Hafıza Kartı (100MB/sn-25MB/sn)",
+            "brand": "ADATA",
+            "modelNo": "AUSDX128GUICL10A1-RA1",
+            "price": "498",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/adata/thumb/137908-1-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme 128 GB SDHC Hafıza Kartı (180MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSDXVA-128G-GNCIN",
+            "price": "829",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/0002-layer-1_small.jpg",
+            "categoryId": "9f285b36-cd02-4df0-32eb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Kingston Canvas Go Plus 256 GB Class 10 Adaptörlü Hafıza Kartı (170MB/S/90MB/S)",
+            "brand": "KINGSTON",
+            "modelNo": "SDCG3/256GB",
+            "price": "1055",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kingston/thumb/138036-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme Pro 512 GB Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSQXCD-512G-GN6MA",
+            "price": "3149",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/144575-1-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Verbatim Pro 64 GB Adaptörlü Hafıza Kartı (90MB/S-45MB/S)",
+            "brand": "VERBATIM",
+            "modelNo": "47042",
+            "price": "312",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/verbatim/thumb/138122-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Verbatim Pro 128 GB Adaptörlü Hafıza Kartı (90MB/S-45MB/S)",
+            "brand": "VERBATIM",
+            "modelNo": "47044",
+            "price": "547",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/verbatim/thumb/138123-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme Pro 128 GB SDHC Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSDXXD-128G-GN4IN",
+            "price": "1099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/138031-1_small.jpg",
+            "categoryId": "9f285b36-cd02-4df0-32eb-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Samsung Evo Plus 512 GB 4K Adaptörlü Hafıza Kartı (160MB/S)",
+            "brand": "SAMSUNG",
+            "modelNo": "MB-MC512SA/TR",
+            "price": "2718",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/146146_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Verbatim Pro 64 GB 600X SDXC Hafıza Kartı (90MB/S-45MB/S)",
+            "brand": "VERBATIM",
+            "modelNo": "47022",
+            "price": "413",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/verbatim/thumb/138080-1_small.jpg",
+            "categoryId": "9f285b36-cd02-4df0-32eb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Kingston Canvas Select Plus 128 GB Class 10 Adaptörlü Hafıza Kartı (100MB/S)",
+            "brand": "KINGSTON",
+            "modelNo": "SDCS2/128GB",
+            "price": "629",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kingston/thumb/109165-1_small.jpg",
+            "categoryId": "78a6ddb9-57ed-42e4-8a6f-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Sandisk Extreme Pro 256 GB SDHC Hafıza Kartı (200MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSDXXD-256G-GN4IN",
+            "price": "1799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/136128-1-1_small.jpg",
+            "categoryId": "9f285b36-cd02-4df0-32eb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sandisk Extreme 256 GB SDHC Hafıza Kartı (180MB/S)",
+            "brand": "SANDISK",
+            "modelNo": "SDSDXVV-256G-GNCIN",
+            "price": "1599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sandisk/thumb/0001-layer-2_small.jpg",
+            "categoryId": "9f285b36-cd02-4df0-32eb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Addison ATR-118 41,7-106 cm Taşıma Çantalı Aliminyum Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-118",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/v2-93227_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Addison ATR-119 55-119 cm Taşıma Çantalı Aliminyum Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-119",
+            "price": "549",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/v2-93228_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "National Geographic NG-PT002 Taşıma Çantalı Tripod",
+            "brand": "NAT GEO",
+            "modelNo": "NG-PT002",
+            "price": "1450",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nat-geo/thumb/137888-1_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Osmo Mobile 6 Gimbal (Siyah)",
+            "brand": "DJI",
+            "modelNo": "CP.OS.00000213.01",
+            "price": "5929",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/135755-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Addison ATR-400 18-70 cm Selfie Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-400",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/v2-93226_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Addison ATR-17 44-130 cm Taşıma Çantalı Aliminyum Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-17",
+            "price": "669",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/v2-62232-6_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "60",
+            "ratingCount": "8"
+        },
+        {
+            "name": "DJI Osmo Pocket 3 Creator Combo",
+            "brand": "DJI",
+            "modelNo": "Osmo Pocket 3 Creator Combo",
+            "price": "30799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/142354-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Osmo Mobile SE",
+            "brand": "DJI",
+            "modelNo": "CP.OS.00000214.01",
+            "price": "4179",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/135756-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Addison ATR-21 50-131 cm Taşıma Çantalı Aliminyum Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-21",
+            "price": "999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/v2-62233-1_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Zhiyun Stabilizer Smooth Q3 Akıllı Telefon Gimbalı (Siyah)",
+            "brand": "ZHIYUN",
+            "modelNo": "127SMOOTH-Q3",
+            "price": "2989",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zhiyun/thumb/130670-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Addison ATR-120 55-120 cm Telefon Tutucu Aliminyum Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-120",
+            "price": "209",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/132108-1_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "National Geographic NG-PT001 Taşıma Çantalı Tripod",
+            "brand": "NAT GEO",
+            "modelNo": "NG-PT001",
+            "price": "1100",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nat-geo/thumb/137887-1_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Zhiyun Stabilizer Smooth-5 Akıllı Telefon Gimbalı",
+            "brand": "ZHIYUN",
+            "modelNo": "127SM115",
+            "price": "4069",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zhiyun/thumb/1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Osmo Mobile 6 Gimbal (Platinum Gray)",
+            "brand": "DJI",
+            "modelNo": "Osmo Mobile 6 Gimbal",
+            "price": "6699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/143626-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Zhiyun Stabilizer Smooth Q3 Combo Akıllı Telefon Gimbalı",
+            "brand": "ZHIYUN",
+            "modelNo": "SMOOTHQ3COMBO",
+            "price": "3499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zhiyun/thumb/137936-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "DJI RS 4 Gimbal",
+            "brand": "DJI",
+            "modelNo": "DJI RS 4",
+            "price": "21299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/145040-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI RS 4 Combo Gimbal",
+            "brand": "DJI",
+            "modelNo": "DJI RS 4 Combo",
+            "price": "27399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/145041-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Zhiyun Stabilizer Smooth-5S Combo Akıllı Telefon Gimbalı",
+            "brand": "ZHIYUN",
+            "modelNo": "Zhiyun Smooth 5S Combo",
+            "price": "6999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zhiyun/thumb/140814-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Addison ATR-10H3 12.7-21.6 cm Mini Tripod",
+            "brand": "ADDISON",
+            "modelNo": "ATR-10H3",
+            "price": "249",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/v2-62231-1_small.jpg",
+            "categoryId": "3940da1a-873c-4dee-32ed-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI RS 4 Pro Combo Gimbal",
+            "brand": "DJI",
+            "modelNo": "DJI RS 4 Pro Combo",
+            "price": "46599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/145043-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Osmo Pocket 3",
+            "brand": "DJI",
+            "modelNo": "Osmo Pocket 3",
+            "price": "24699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/142355-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "DJI RS 3 Mini Gimbal",
+            "brand": "DJI",
+            "modelNo": "CP.RN.00000295.01",
+            "price": "11599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/137642-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Sony ECMW3 Bluetooth Mikrofon",
+            "brand": "SONY",
+            "modelNo": "ECMW3",
+            "price": "18299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/144063-1_small.jpg",
+            "categoryId": null,
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Zhiyun Stabilizer Smooth-5S Akıllı Telefon Gimbalı",
+            "brand": "ZHIYUN",
+            "modelNo": "Zhiyun Smooth 5S",
+            "price": "5599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/zhiyun/thumb/140813-1_small.jpg",
+            "categoryId": "21bf07d8-877d-4af4-32ee-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos 2000D 18-55mm DC DSLR Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "2000D 18-55 DC",
+            "price": "18999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/97845-1_small.jpg",
+            "categoryId": "5532b8dd-c181-462b-fd63-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Sony ZV-E10 16-50mm Vlog Fotoğraf Makinesi",
+            "brand": "SONY",
+            "modelNo": "ZV-E10",
+            "price": "26998",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/128667-4_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R50 RF S 18-45 IS STM Vlogger Kit Vlog Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS R50 VLOGGER KIT",
+            "price": "34599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/139458-1_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "Nikon Z30 16-50mm Vlogger Kit Vlog Fotoğraf Makinesi",
+            "brand": "NIKON",
+            "modelNo": "VOA110K004",
+            "price": "31399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nikon/thumb/135923-1_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos 2000D 18-55mm IS DSLR Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "2000D 18-55 IS",
+            "price": "20899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/v2-90255_small.jpg",
+            "categoryId": "5532b8dd-c181-462b-fd63-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Canon Eos 250D 18-55mm DC DSLR Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "250D BK 18-55 DC",
+            "price": "28599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/TeoriV2-97551-8_small.jpg",
+            "categoryId": "5532b8dd-c181-462b-fd63-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Sony ZV-1 24-70mm Vlog Fotoğraf Makinesi",
+            "brand": "SONY",
+            "modelNo": "ZV-1",
+            "price": "22979",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/TeoriV2-108870_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos RP 24-105mm f/4-7.1 IS STM Aynasız Full Frame Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS RP 24-105 IS STM F4-7.1",
+            "price": "45999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/109336_small.jpg",
+            "categoryId": "a06f6587-75cc-4b89-fd60-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nikon Z50 DX 16-50mm VR Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "NIKON",
+            "modelNo": "VOA050K001",
+            "price": "38399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nikon/thumb/TeoriV2-105486_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Canon Powershot SX70 Kompakt Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "SX70 HS BK",
+            "price": "27099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/v2-93305_small.jpg",
+            "categoryId": "3a92a9ea-ca03-4366-fd61-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sony ZV-1F 20mm Vlog Fotoğraf Makinesi",
+            "brand": "SONY",
+            "modelNo": "ZV1FBDI.EU",
+            "price": "17749",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/135957-1_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sony Alpha A6400 16-50mm Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "SONY",
+            "modelNo": "Alpha A6400",
+            "price": "35699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/94997-1-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R50 RF S18-45 IS-55-210MM Lens kit Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS R50",
+            "price": "38999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/146510-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R50 RFS 18-150 IS STM Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "Eos R50",
+            "price": "39999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/145684-0_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R7 18-150 IS STM Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS R7",
+            "price": "69499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/143025-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nikon Z30 16-50mm DX VR Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "NIKON",
+            "modelNo": "VOA110K001",
+            "price": "31349",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nikon/thumb/135919-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos 850D 18-135mm USM STM DSLR Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "850D 18-135",
+            "price": "45999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/121287_small.jpg",
+            "categoryId": "5532b8dd-c181-462b-fd63-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nikon D7500mm 18-140 DSLR Fotoğraf Makinesi",
+            "brand": "NIKON",
+            "modelNo": "VBA510K002",
+            "price": "46499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nikon/thumb/v2-93027_small.jpg",
+            "categoryId": "5532b8dd-c181-462b-fd63-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R100 RF S 18-45 IS STM Travel Kit Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "Eos R100",
+            "price": "28999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/145685-1-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R100 RF S 18-45 IS STM Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS R100",
+            "price": "26499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/142684-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sony ZV-E10 Değiştirilebilir Lensli Vlog Fotoğraf Makinesi (Body)",
+            "brand": "SONY",
+            "modelNo": "ZV-E10",
+            "price": "25999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/142375-1_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sony ZV-1 Mark II 24-70mm Vlog Fotoğraf Makinesi",
+            "brand": "SONY",
+            "modelNo": "ZV-1 II",
+            "price": "30498",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/140991-1_small.jpg",
+            "categoryId": "b483a090-2fac-44e1-fd62-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R50 RF S 18-45 IS STM Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS R50",
+            "price": "34599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/139106-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Canon Eos R10 RF-S 18-150 IS STM Aynasız APS-C Fotoğraf Makinesi",
+            "brand": "CANON",
+            "modelNo": "EOS R10 18-150",
+            "price": "52699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/138854-1_small.jpg",
+            "categoryId": "aaf09e10-0d65-48ea-fd5f-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "USB Yazıcı Kablosu",
+            "brand": "OEM",
+            "modelNo": "BNDL/Kablo",
+            "price": "60",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/oem/thumb/v2-31229_small.jpg",
+            "categoryId": "76580bda-ffb2-44e1-fd86-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "28"
+        },
+        {
+            "name": "EPSON ECOTANK L3251 FOTOKOPİ, TARAYICI, Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L3251",
+            "price": "6299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/129731_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "172"
+        },
+        {
+            "name": "EPSON ECOTANK L3256 FOTOKOPİ, TARAYICI,Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L3256",
+            "price": "5799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/129734_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "59"
+        },
+        {
+            "name": "HP DESKJET INK ADVANTAGE ULTRA 4927 FOTOKOPİ, TARAYICI, Wi-Fi YAZICI(6W7G3B)",
+            "brand": "HP",
+            "modelNo": "Deskjet 4927",
+            "price": "3299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/143788-1_small.jpg",
+            "categoryId": "be4b77b7-a418-49c1-fd7e-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "12"
+        },
+        {
+            "name": "HP SMART TANK 520 FOTOKOPİ,TARAYICI,YAZICI(1F3W2A)",
+            "brand": "HP",
+            "modelNo": "Smart Tank 520",
+            "price": "3999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/143498-1_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "7"
+        },
+        {
+            "name": "CANON PIXMA G3410 FOTOKOPİ,TARAYICI,WİFİ TANKLI YAZICI",
+            "brand": "CANON",
+            "modelNo": "G3410",
+            "price": "4599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/v2-89735_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "3"
+        },
+        {
+            "name": "HP SMART TANK 585 FOTOKOPİ,TARAYICI,Wi-Fi MÜREKKEP TANKLI YAZICI (1F3Y4A)",
+            "brand": "HP",
+            "modelNo": "585",
+            "price": "6299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/137978-1_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "15"
+        },
+        {
+            "name": "HP LASER 137FNW FOTOKOPİ,TARAYICI,FAKS Wi-Fi MONO LAZER YAZICI (4ZB84A)",
+            "brand": "HP",
+            "modelNo": "137FNW",
+            "price": "8599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/1-9_small.jpg",
+            "categoryId": "bfd01ae6-f5a7-444f-fd80-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "11"
+        },
+        {
+            "name": "HP LASERJET M111W Wi-Fi MONO LAZER YAZICI (7MD68A)",
+            "brand": "HP",
+            "modelNo": "111W",
+            "price": "4999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/141243-1_small.jpg",
+            "categoryId": "ba19aad1-12ce-4c2c-fd81-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "EPSON ECOTANK L1250 Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L1250",
+            "price": "4699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/129729_small.jpg",
+            "categoryId": "886e9e54-3c44-43a2-fd84-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "15"
+        },
+        {
+            "name": "HP SMART TANK 580 FOTOKOPİ,TARAYICI,Wi-Fi MÜREKKEP TANKLI YAZICI (1F3Y2A)",
+            "brand": "HP",
+            "modelNo": "580",
+            "price": "6099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/137976-1-1_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "14"
+        },
+        {
+            "name": "EPSON ECOTANK L3260 FOTOKOPİ, TARAYICI,Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L3260",
+            "price": "7599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/129735_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "18"
+        },
+        {
+            "name": "BROTHER MFC-L2716DW-3T FOTOKOPİ, TARAYICI, FAKS Wi-Fi MONO LAZER YAZICI+2 TONER",
+            "brand": "BROTHER",
+            "modelNo": "MFC-L2716DW-3T",
+            "price": "12999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/109420_small.jpg",
+            "categoryId": "bfd01ae6-f5a7-444f-fd80-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "11"
+        },
+        {
+            "name": "BROTHER HL-1211W-2T Wi-Fi MONO LAZER YAZICI +1 TONER HEDİYELİ",
+            "brand": "BROTHER",
+            "modelNo": "HL-1211W-2T",
+            "price": "5499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/TeoriV2-105515_small.jpg",
+            "categoryId": "ba19aad1-12ce-4c2c-fd81-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "33"
+        },
+        {
+            "name": "CANON PIXMA TS3450 FOTOKOPİ,TARAYICI Wi-Fi YAZICI",
+            "brand": "CANON",
+            "modelNo": "TS3450",
+            "price": "2099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/142696-1_small.jpg",
+            "categoryId": "be4b77b7-a418-49c1-fd7e-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "BROTHER DCP-T720DW FOTOKOPİ, TARAYICI, Wi-Fi , MÜREKKEP TANKLI YAZICI",
+            "brand": "BROTHER",
+            "modelNo": "DCP-T720DW",
+            "price": "6999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/123304_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "15"
+        },
+        {
+            "name": "BROTHER DCP-T520W FOTOKOPİ, TARAYICI, Wi-Fi , MÜREKKEP TANKLI YAZICI",
+            "brand": "BROTHER",
+            "modelNo": "DCP-T520W",
+            "price": "5899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/123303_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "21"
+        },
+        {
+            "name": "BROTHER MFC-1911W-2T FOTOKOPİ,TARAYICI,FAKS Wi-Fi MONO LAZER YAZICI +1 TONER",
+            "brand": "BROTHER",
+            "modelNo": "MFC-1911W-2T",
+            "price": "8999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/108851_small.jpg",
+            "categoryId": "bfd01ae6-f5a7-444f-fd80-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "8"
+        },
+        {
+            "name": "EPSON ECOTANK L6270 FOTOKOPİ,TARAYICI,Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L6270",
+            "price": "12999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/134348-1_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "8"
+        },
+        {
+            "name": "CANON MF655CDW FOTOKOPİ,TARAYICI Wi-Fi RENKLİ LAZER YAZICI",
+            "brand": "CANON",
+            "modelNo": "MF655CDW",
+            "price": "10299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/138417-1_small.jpg",
+            "categoryId": "bfd01ae6-f5a7-444f-fd80-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "CANON MEGATANK G3470 FOTOKOPİ,TARAYICI,Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "CANON",
+            "modelNo": "G3470-BK",
+            "price": "5399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/137790-1_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "15"
+        },
+        {
+            "name": "EPSON ECOTANK L14150 FOTOKOPİ,TARAYICI,A3 Wi-Fi MÜREKKEPTANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L14150",
+            "price": "19799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/TeoriV2-108226_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "4"
+        },
+        {
+            "name": "EPSON ECOTANK L3266 FOTOKOPİ, TARAYICI, Wi-Fi MÜREKKEP TANKLI YAZICI",
+            "brand": "EPSON",
+            "modelNo": "L3266",
+            "price": "7599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/130707-1_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "17"
+        },
+        {
+            "name": "BROTHER DCP-T420W FOTOKOPİ, TARAYICI, Wi-Fi , MÜREKKEP TANKLI YAZICI",
+            "brand": "BROTHER",
+            "modelNo": "DCP-T420W",
+            "price": "4999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/123302_small.jpg",
+            "categoryId": "86bdbb6c-68e6-4c34-fd83-08dcb554e621",
+            "rating": "80",
+            "ratingCount": "15"
+        },
+        {
+            "name": "CASIO MX-12B-BK MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MX-12B-BK",
+            "price": "229",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-87624_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO AX-120B MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "AX-120B",
+            "price": "499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-87625_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO DX-120B MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "DX-120B",
+            "price": "489",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/casio-dx-120b_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO DX-12B-BK MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "DX-12B-BK",
+            "price": "359",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-83486_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MJ-120D PLUS MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MJ-120D PLUS",
+            "price": "479",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-87631_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO AX-12B MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "AX-12B",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-83488_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO FX-82MS-2 BİLİMSEL HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "FX-82MS-2",
+            "price": "449",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/TeoriV2-103364_small.jpg",
+            "categoryId": "25fbe997-e7e6-4008-32f1-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "CASIO FX-991CW-PK PEMBE BİLİMSEL HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "FX-991CW-PK",
+            "price": "1169",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/139398-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO DJ-120D PLUS MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "DJ-120D PLUS",
+            "price": "499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-83487-1_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO FX-991CW-BK SİYAH BİLİMSEL HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "FX-991CW-BK",
+            "price": "1329",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/139399-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MX-12B-PK PEMBE MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MX-12B-PK",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/134623-1_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CANON MASAÜSTÜ HESAP MAKİNESİ (AS-120 II)",
+            "brand": "CANON",
+            "modelNo": "AS-120 II",
+            "price": "149",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/133030-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MX-120B MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MX-120B",
+            "price": "249",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-83485_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO HR-100RC-BK-DC PRINTER HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "HR-100RC-BK-DC",
+            "price": "1663",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/142962-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO DC-12M MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "DC-12M",
+            "price": "689",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/142916_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO FX-82CW-BK BİLİMSEL HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "FX-82CW-BK",
+            "price": "659",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/139396-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MX-12B-WE BEYAZ MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MX-12B-WE",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/134630-1_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO FX-991ES PLUS 2 BU MAVİ BİLİMSEL HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "FX-991ES PLUS 2 BU",
+            "price": "1119",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/134627-1_small.jpg",
+            "categoryId": "25fbe997-e7e6-4008-32f1-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MX-12B-GN YEŞİL MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MX-12B-GN",
+            "price": "299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/134622-1_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO GR-12C-WR BORDO MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "GR-12C-WR",
+            "price": "619",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/134620-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO GR-12C-LB MAVİ MASAÜSTÜ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "GR-12C-LB",
+            "price": "619",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/134617-1_small.jpg",
+            "categoryId": "51d65cd5-c378-424f-32ef-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MS-20UC-YG MASAÜSTÜ AÇIK YEŞİL HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MS-20UC-YG",
+            "price": "459",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-89535_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MS-20UC-WE MASAÜSTÜ BEYAZ HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MS-20UC-WE",
+            "price": "459",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-89534_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CASIO MS-20UC-PL MASAÜSTÜ MOR HESAP MAKİNESİ",
+            "brand": "CASIO",
+            "modelNo": "MS-20UC-PL",
+            "price": "459",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/casio/thumb/v2-89533_small.jpg",
+            "categoryId": "7cc0d22d-f626-49b1-32f0-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Online Office Ev ve Öğrenci 2021 Türkçe PC/MAC ( (Dijital İndirilebilir Lisans)",
+            "brand": "MICROSOFT",
+            "modelNo": "79G-05369",
+            "price": "4399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/130655-1-1_small.jpg",
+            "categoryId": "0d86b63c-3533-461d-32f2-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Windows 11 Home 64 Bit Türkçe KUTU",
+            "brand": "MICROSOFT",
+            "modelNo": "HAJ-00123",
+            "price": "6571",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/133064-1_small.jpg",
+            "categoryId": "6ea9df2b-ab98-4c6f-32f3-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Kaspersky Internet Security - Multi-Device (3 Kullanıcı-1 Yıl)",
+            "brand": "KASPERSKY",
+            "modelNo": "KIS3 MD",
+            "price": "798",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kaspersky/thumb/v2-93535_small.jpg",
+            "categoryId": "13df4d21-0d2c-4fd5-32f4-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Kaspersky Internet Security - Multi-Device (1 Kullanıcı-1 Yıl)",
+            "brand": "KASPERSKY",
+            "modelNo": "KIS1 MD",
+            "price": "349",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kaspersky/thumb/v2-84492_small.jpg",
+            "categoryId": "13df4d21-0d2c-4fd5-32f4-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Online Microsoft 365 Bireysel (1 kullanıcı-1yıl) (Dijital İndirilebilir Lisans)",
+            "brand": "MICROSOFT",
+            "modelNo": "QQ2-00006",
+            "price": "1979",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/84459-1_small.jpg",
+            "categoryId": "0d86b63c-3533-461d-32f2-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "McAfee Internet Security 3 Cihaz - 1 Yıl",
+            "brand": "MCAFEE",
+            "modelNo": "MIS214NR3RAAT",
+            "price": "798",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/mcafee/thumb/135659-1_small.jpg",
+            "categoryId": "13df4d21-0d2c-4fd5-32f4-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "McAfee Total Protection Dijital Kimlik Koruma 3 Cihaz-1 Yıl",
+            "brand": "MCAFEE",
+            "modelNo": "MTP214NR3RAAT",
+            "price": "1098",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/mcafee/thumb/135660-1_small.jpg",
+            "categoryId": "13df4d21-0d2c-4fd5-32f4-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Online Microsoft 365 Aile (6 kullanıcı/1 yıl) (Dijital İndirilebilir Lisans)",
+            "brand": "MICROSOFT",
+            "modelNo": "6GQ-00086",
+            "price": "2549",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/84460-1_small.jpg",
+            "categoryId": "0d86b63c-3533-461d-32f2-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "Kaspersky Total Security 3PC – Multi Device",
+            "brand": "KASPERSKY",
+            "modelNo": "KTS3",
+            "price": "699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/kaspersky/thumb/v2-88528_small.jpg",
+            "categoryId": "13df4d21-0d2c-4fd5-32f4-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Online Office Ev ve İŞ 2021 Türkçe PC/ MAC (Dijital İndirilebilir Lisans)",
+            "brand": "MICROSOFT",
+            "modelNo": "T5D-03488",
+            "price": "10311",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/1-6_small.jpg",
+            "categoryId": "0d86b63c-3533-461d-32f2-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Windows 11 Professional 64 Bit Türkçe KUTU",
+            "brand": "MICROSOFT",
+            "modelNo": "HAV-00159",
+            "price": "9978",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/133066-1_small.jpg",
+            "categoryId": "6ea9df2b-ab98-4c6f-32f3-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Take 2 PS4 Oyun Red Dead Redemption II",
+            "brand": "CDMEDIA",
+            "modelNo": "Red Dead Redemption II",
+            "price": "1029",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/92292-1-1_small.jpg",
+            "categoryId": "a5cdc11d-8ca5-4d13-32f5-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "PS4 Oyun EA Sports FC 24",
+            "brand": "CDMEDIA",
+            "modelNo": "PS4X-1330",
+            "price": "1999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/141273-1_small.jpg",
+            "categoryId": "a5cdc11d-8ca5-4d13-32f5-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Warner Bros PS5 Oyun Mortal Kombat 1",
+            "brand": "CDMEDIA",
+            "modelNo": "Mortal Kombat 1",
+            "price": "1499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/140380-1_small.jpg",
+            "categoryId": "f97a4f3a-1bb7-426f-32f6-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Take 2 PS5 Oyun GTA V",
+            "brand": "CDMEDIA",
+            "modelNo": "PS5X-0118",
+            "price": "1549",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/133358-1_small.jpg",
+            "categoryId": "f97a4f3a-1bb7-426f-32f6-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "McAfee Total Protection Dijital Kimlik Koruma 10 Cihaz - 1 Yıl",
+            "brand": "MCAFEE",
+            "modelNo": "MTP214NRXRAAT",
+            "price": "899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/mcafee/thumb/135661-1_small.jpg",
+            "categoryId": "13df4d21-0d2c-4fd5-32f4-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Take 2 PS4 Oyun NBA 2K24 Kobe Bryant Edition",
+            "brand": "CDMEDIA",
+            "modelNo": "Ps4 Oyun Nba 2K24 Kobe Bryant Edition",
+            "price": "839",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/140370-1_small.jpg",
+            "categoryId": "a5cdc11d-8ca5-4d13-32f5-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nintendo Switch Oyun Ea Sports Fc 24",
+            "brand": "CDMEDIA",
+            "modelNo": "NSW-0649",
+            "price": "1929",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/141276-1_small.jpg",
+            "categoryId": "277380be-70a4-48eb-32f7-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nintendo Switch Oyun Super Mario Odyssey",
+            "brand": "CDMEDIA",
+            "modelNo": "NSW-0009",
+            "price": "3179",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/138269-1_small.jpg",
+            "categoryId": "277380be-70a4-48eb-32f7-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Warner Bros PS5 Oyun Mortal Kombat 11 Ultimate",
+            "brand": "CDMEDIA",
+            "modelNo": "PS5X-W001",
+            "price": "959",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/138118-2-1_small.jpg",
+            "categoryId": "f97a4f3a-1bb7-426f-32f6-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Warner Bros PS4 Oyun Hogwarts Legacy",
+            "brand": "CDMEDIA",
+            "modelNo": "PS4X-W048",
+            "price": "1399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/139535-1_small.jpg",
+            "categoryId": "a5cdc11d-8ca5-4d13-32f5-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Take 2 PS5 Oyun Lego 2K Drive",
+            "brand": "CDMEDIA",
+            "modelNo": "PS5X-0273",
+            "price": "789",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/138381-2_small.jpg",
+            "categoryId": "f97a4f3a-1bb7-426f-32f6-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Warner Bros PS5 Oyun Hogwarts Legacy",
+            "brand": "CDMEDIA",
+            "modelNo": "PS5X-W048",
+            "price": "1899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/138116-1_small.jpg",
+            "categoryId": "f97a4f3a-1bb7-426f-32f6-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Take 2 PS4 Oyun WWE 2K24 Standard Edition",
+            "brand": "CDMEDIA",
+            "modelNo": "Take 2 WWE 2K24 Standard Edition",
+            "price": "2279",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/cdmedia/thumb/143699-1_small.jpg",
+            "categoryId": "a5cdc11d-8ca5-4d13-32f5-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "EPSON 103 SİYAH MÜREKKEP KARTUŞU (C13T00S14A)",
+            "brand": "EPSON",
+            "modelNo": "C13T00S14A",
+            "price": "379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/v2-92720-2_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "CANON PG-46 SİYAH MÜREKKEP KARTUŞU ( PG-46 )",
+            "brand": "CANON",
+            "modelNo": "PG-46",
+            "price": "419",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/v2-74495_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "60",
+            "ratingCount": "1"
+        },
+        {
+            "name": "BROTHER BTD60BK SİYAH MÜREKKEP KARTUŞU (BTD60BK)",
+            "brand": "BROTHER",
+            "modelNo": "BTD60BK",
+            "price": "422",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/v2-90743_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "EPSON 103 KIRMIZI MÜREKKEP KARTUŞU (C13T00S34A)",
+            "brand": "EPSON",
+            "modelNo": "C13T00S34A",
+            "price": "379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/v2-92722-1_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "EPSON 103 SARI MÜREKKEP KARTUŞU (C13T00S44A)",
+            "brand": "EPSON",
+            "modelNo": "C13T00S44A",
+            "price": "379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/v2-92723-1_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "BROTHER BT5000Y SARI MÜREKKEP KARTUŞU ( BT5000Y )",
+            "brand": "BROTHER",
+            "modelNo": "BT5000Y",
+            "price": "350",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/v2-81204_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "EPSON 103 MAVİ MÜREKKEP KARTUŞU (C13T00S24A)",
+            "brand": "EPSON",
+            "modelNo": "C13T00S24A",
+            "price": "379",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/v2-92721-1_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP 305 SİYAH MÜREKKEP KARTUŞU (3YM61AE)",
+            "brand": "HP",
+            "modelNo": "3YM61AE",
+            "price": "589",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/TeoriV2-109121_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "BROTHER TN-1040 1000 SAYFA KAPASİTELİ SİYAH TONER ( TN-1040 )",
+            "brand": "BROTHER",
+            "modelNo": "TN-1040",
+            "price": "608",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/v2-68480-1_small.jpg",
+            "categoryId": "cabe3ea8-95e2-4571-fd9d-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "BROTHER BT5000C MAVİ MÜREKKEP KARTUŞU ( BT5000C )",
+            "brand": "BROTHER",
+            "modelNo": "BT5000C",
+            "price": "350",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/v2-81201_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "EPSON 103 MULTIPACK MÜREKKEP KARTUŞ SETİ",
+            "brand": "EPSON",
+            "modelNo": "C13T00S64A",
+            "price": "1643",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/103_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "HP 47 SİYAH MÜREKKEP KARTUŞU(6ZD21AE)",
+            "brand": "HP",
+            "modelNo": "6ZD21AE",
+            "price": "279",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/siyah_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "BROTHER BT5000M KIRMIZI MÜREKKEP KARTUŞU ( BT5000M )",
+            "brand": "BROTHER",
+            "modelNo": "BT5000M",
+            "price": "350",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/brother/thumb/v2-81203_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "HP GT53XL SİYAH MÜREKKEP KARTUŞU (1VV21AE)",
+            "brand": "HP",
+            "modelNo": "1VV21AE",
+            "price": "389",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/4-15_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "CANON VP-101 FOTOĞRAF KAĞIDI KARIŞIK PAKET",
+            "brand": "CANON",
+            "modelNo": "VP-101 A4 & 10*15",
+            "price": "99",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/canon/thumb/68396-anaa_small.jpg",
+            "categoryId": "b20751ad-90f9-4ff5-fd9c-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP 47 RENKLİ MÜREKKEP KARTUŞU (6ZD61AE)",
+            "brand": "HP",
+            "modelNo": "6ZD61AE",
+            "price": "279",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/renkli_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP 652 SİYAH MÜREKKEP KARTUŞU ( F6V25AE )",
+            "brand": "HP",
+            "modelNo": "F6V25AE",
+            "price": "829",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/3-16_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "EPSON T6641 SİYAH MÜREKKEP KARTUŞU (C13T66414A)",
+            "brand": "EPSON",
+            "modelNo": "C13T66414A",
+            "price": "399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/v2-60061-1_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "EPSON 110 SİYAH MÜREKKEP KARTUŞU ( C13T03P14A )",
+            "brand": "EPSON",
+            "modelNo": "C13T03P14A",
+            "price": "749",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/epson/thumb/TeoriV2-105265_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "HP 106A 1000 SAYFA KAPASİTELİ SİYAH TONER (W1106A)",
+            "brand": "HP",
+            "modelNo": "W1106A",
+            "price": "2579",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/TeoriV2-104109_small.jpg",
+            "categoryId": "cabe3ea8-95e2-4571-fd9d-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP GT52 SARI MÜREKKEP KARTUŞU( M0H56AE )",
+            "brand": "HP",
+            "modelNo": "M0H56AE",
+            "price": "419",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/1-20_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP 650 SİYAH MÜREKKEP KARTUŞU (CZ101AE)",
+            "brand": "HP",
+            "modelNo": "CZ101AE",
+            "price": "759",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/5-9_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP GT52 MAVİ MÜREKKEP KARTUŞU( M0H54AE )",
+            "brand": "HP",
+            "modelNo": "M0H54AE",
+            "price": "419",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/2-18_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HP GT52 KIRMIZI MÜREKKEP KARTUŞU ( M0H55AE )",
+            "brand": "HP",
+            "modelNo": "M0H55AE",
+            "price": "419",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hp/thumb/1-24_small.jpg",
+            "categoryId": "504f12b8-f619-4c9d-fd9b-08dcb554e621",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Pioneer MVH-S120UB USB’li Oto Teyp",
+            "brand": "PIONEER",
+            "modelNo": "MVH-S120UB",
+            "price": "3149",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/pioneer/thumb/128068_small.jpg",
+            "categoryId": "7c25079e-e3eb-40c7-32fb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Roadstar RDH-T110PRO 300 Watt 10 Cm Tweeter",
+            "brand": "ROADSTAR",
+            "modelNo": "Roadstar RDH-T110PRO 300 Watt 10 Cm Tweeter",
+            "price": "709",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roadstar/thumb/139890-1_small.jpg",
+            "categoryId": "ea229194-130a-4ff5-32fa-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Roadstar RD9500 7” Android Multimedia Oynatıcı",
+            "brand": "ROADSTAR",
+            "modelNo": "RD9500",
+            "price": "5249",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roadstar/thumb/1-133970_small.jpg",
+            "categoryId": "7c25079e-e3eb-40c7-32fb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Pioneer MVH-S320BT Bluetooth USB'li Oto Teyp",
+            "brand": "PIONEER",
+            "modelNo": "Pioneer MVH-S320BT Bluetooth USB'li Oto Teyp",
+            "price": "4639",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/pioneer/thumb/139891-1_small.jpg",
+            "categoryId": "7c25079e-e3eb-40c7-32fb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Pioneer DMH-G221BT 6,2\" Bluetooth'lu Double Teyp",
+            "brand": "PIONEER",
+            "modelNo": "Pioneer DMH-G221BT 6,2\" Bluetooth'lu Double Teyp",
+            "price": "7439",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/pioneer/thumb/139888-1_small.jpg",
+            "categoryId": "7c25079e-e3eb-40c7-32fb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Roadstar RD9700 10.1” Android Multimedia Oynatıcı",
+            "brand": "ROADSTAR",
+            "modelNo": "Roadstar RD9700 10.1” Android Multimedia Oynatıcı",
+            "price": "6099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roadstar/thumb/139887-1_small.jpg",
+            "categoryId": "7c25079e-e3eb-40c7-32fb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Roadstar RD9600 9” Android Multimedia Oynatıcı",
+            "brand": "ROADSTAR",
+            "modelNo": "Roadstar RD9600 9” Android Multimedia Oynatıcı",
+            "price": "5899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/roadstar/thumb/139886-1_small.jpg",
+            "categoryId": "7c25079e-e3eb-40c7-32fb-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Pioneer TS-A6960F 450 Watt 6X9 Oto Hoparlör",
+            "brand": "PIONEER",
+            "modelNo": "TS-A6960F",
+            "price": "2519",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/pioneer/thumb/128070_small.jpg",
+            "categoryId": "ea229194-130a-4ff5-32fa-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Apple MUVV3TU/A 20W Usb-C Hızlı Şarj Güç Adaptörü",
+            "brand": "APPLE",
+            "modelNo": "MUVV3TU/A",
+            "price": "719",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/144714-1_small.jpg",
+            "categoryId": "ec878372-d8cc-4ebf-32fc-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "SAMSUNG EP-T2510N Type C Hızlı Şarj Adaptörü 25W- Beyaz",
+            "brand": "SAMSUNG",
+            "modelNo": "EP-T2510NWEGWW",
+            "price": "719",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/140828-1_small.jpg",
+            "categoryId": "ec878372-d8cc-4ebf-32fc-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "Apple MUQ93ZM/A USB-C To Lightning Kablo - 1M",
+            "brand": "APPLE",
+            "modelNo": "MUQ93ZM/A",
+            "price": "719",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/144645-1_small.jpg",
+            "categoryId": "16080f98-dbee-46f5-32fd-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "SAMSUNG EP-T2510N Type C Hızlı Şarj Adaptörü 25W- Siyah",
+            "brand": "SAMSUNG",
+            "modelNo": "EP-T2510NBEGWW",
+            "price": "719",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/140830-1_small.jpg",
+            "categoryId": "ec878372-d8cc-4ebf-32fc-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "S-link P201 20000 mAh PRM Micro+Type-C+USB Powerbank - Siyah",
+            "brand": "S-LINK",
+            "modelNo": "P201 Siyah",
+            "price": "665",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/s-link/thumb/146484-1_small.jpg",
+            "categoryId": "a08b6645-0fcf-49cd-3300-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "HUAWEI Freebuds SE 2 Bluetooth Kablosuz Kulak İçi Kulaklık - Seramik Beyaz",
+            "brand": "HUAWEI",
+            "modelNo": "Freebuds SE 2",
+            "price": "949",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/141198-1_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "10"
+        },
+        {
+            "name": "Apple MTJV3TU/A Airpods Pro 2. Nesil Kulaklık ve Magsafe Şarj Kutusu (USB‑C)",
+            "brand": "APPLE",
+            "modelNo": "Airpods Pro 2. Nesil",
+            "price": "8149",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/141492-1_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "8"
+        },
+        {
+            "name": "APPLE MMTN2TU/A Lightning Konnektörlü Earpods Kulaklık",
+            "brand": "APPLE",
+            "modelNo": "MMTN2TU/A",
+            "price": "629",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/v2-83760_small.jpg",
+            "categoryId": "5adf883e-a795-465f-32ff-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "13"
+        },
+        {
+            "name": "S-link P201 20000 mAh PRM Micro+Type-C+USB Powerbank - Beyaz",
+            "brand": "S-LINK",
+            "modelNo": "P201 Beyaz",
+            "price": "665",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/s-link/thumb/146485-1_small.jpg",
+            "categoryId": "a08b6645-0fcf-49cd-3300-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "PHILIPS TAT1209BK/00 True Wireless Kulaklık - Siyah",
+            "brand": "PHILIPS",
+            "modelNo": "TAT1209BK/00",
+            "price": "1399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/philips/thumb/146011-1_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "JBL Tune 160 Kablolu Kulakiçi Kulaklık - Siyah",
+            "brand": "JBL",
+            "modelNo": "Tune 160",
+            "price": "319",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/jbl/thumb/142037-1_small.jpg",
+            "categoryId": "5adf883e-a795-465f-32ff-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Apple MV7N2TU/A Airpods 2.Nesil Kulaklık ve Şarj Kutusu",
+            "brand": "APPLE",
+            "modelNo": "Airpods 2. Nesil",
+            "price": "4399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/0003-layer-3_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "67"
+        },
+        {
+            "name": "X-Level PowerB 2 USB Giriş/Çıkış 10.000 mAh Powerbank - Beyaz",
+            "brand": "X-LEVEL",
+            "modelNo": "X-PowerLightS",
+            "price": "529",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/x-level/thumb/144992-1-1_small.jpg",
+            "categoryId": "a08b6645-0fcf-49cd-3300-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "ADDİSON 300157 MOUSE PAD- SİYAH",
+            "brand": "ADDISON",
+            "modelNo": "300157 Siyah",
+            "price": "73",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/1-133081_small.jpg",
+            "categoryId": "db283a06-a882-4491-3301-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Apple MQKJ3ZM/A USB-C Şarj Kablosu (1 m)",
+            "brand": "APPLE",
+            "modelNo": "MQKJ3ZM/A",
+            "price": "719",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/138431-1-1_small.jpg",
+            "categoryId": "16080f98-dbee-46f5-32fd-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "S-LİNK IP-G10N Micro + Type C Girişli 10.000mAh Powerbank- Beyaz",
+            "brand": "S-LINK",
+            "modelNo": "IP-G10N BEYAZ",
+            "price": "527",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/s-link/thumb/120465_small.jpg",
+            "categoryId": "a08b6645-0fcf-49cd-3300-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Addison IP-DUST01 Universal Hoparlör Toza Karşı Koruma Filtresi",
+            "brand": "ADDISON",
+            "modelNo": "Hoparlör Toza Karşı Koruma Filtresi",
+            "price": "110",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/addison/thumb/142598-1_small.jpg",
+            "categoryId": "772cb3d9-ada3-4f01-3305-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "S-LİNK SL-STM55L 3A FAST ŞARJ LİGHTNING DATA+ ŞARJ KABLOSU- SİLVER",
+            "brand": "S-LINK",
+            "modelNo": "SL-STM55L",
+            "price": "144",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/s-link/thumb/112997_small.jpg",
+            "categoryId": "69a90df0-9e52-449b-3302-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Apple MPNY3TU/A Airpods 3. Nesil Kulaklık ve Lightning Şarj Kutusu",
+            "brand": "APPLE",
+            "modelNo": "Airpods 3",
+            "price": "5699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/130910-1-2_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "6"
+        },
+        {
+            "name": "HUAWEI Freebuds SE 2 Bluetooth Kablosuz Kulak İçi Kulaklık - Seramik Sİyah",
+            "brand": "HUAWEI",
+            "modelNo": "Freebuds SE 2",
+            "price": "999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/146273-1_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "S-LİNK SPG3-X-3 3LÜ AKIM KORUMA PRİZ 1.5M- SİYAH",
+            "brand": "S-LINK",
+            "modelNo": "SPG3-X-3",
+            "price": "304",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/s-link/thumb/1-12_small.jpg",
+            "categoryId": "194d051f-945a-40d8-3304-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Anker Soundcore A20i Tws Bluetooth Kablosuz Kulaklık - Siyah",
+            "brand": "ANKER",
+            "modelNo": "Soundcare A20i",
+            "price": "799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/anker/thumb/143285-1_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "JBL Tune 520bt Multi Connect Kablosuz Kulak Üstü Kulaklık - Siyah",
+            "brand": "JBL",
+            "modelNo": "JB.JBLT520BTBLKEU",
+            "price": "1899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/jbl/thumb/139118-1_small.jpg",
+            "categoryId": "300e3e99-49cf-4ef4-32fe-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "11"
+        },
+        {
+            "name": "Vivo 15 W Şarj Adaptörü - Beyaz",
+            "brand": "VİVO",
+            "modelNo": "15 W Şarj Adaptör",
+            "price": "499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/146280-1_small.jpg",
+            "categoryId": "ec878372-d8cc-4ebf-32fc-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Mini 4 Pro Fly More Combo Plus Drone (DJI RC 2)",
+            "brand": "DJI",
+            "modelNo": "DJI Mini 4 Pro Fly More Combo Plus",
+            "price": "51999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/141500-8-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "6"
+        },
+        {
+            "name": "DJI Mini 2 SE Fly More Combo Drone",
+            "brand": "DJI",
+            "modelNo": "DJI Mini 2 SE Fly More Combo",
+            "price": "18099",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/137837-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "3"
+        },
+        {
+            "name": "DJI Air 3 Fly More Combo Drone (DJI RC 2)",
+            "brand": "DJI",
+            "modelNo": "Air 3 Fly More Combo (DJI RC 2)",
+            "price": "65399",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/140329-1_small.jpg",
+            "categoryId": "fa538d60-9b82-4ce1-3317-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "DJI Avata 2 Fly More Combo Drone (Üç Batarya)",
+            "brand": "DJI",
+            "modelNo": "DJI Avata 2 Fly More Combo (Üç Batarya)",
+            "price": "54299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/144989-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Mini 4 Pro Fly More Combo Drone (DJI RC 2 Ekranlı Kumandalı)",
+            "brand": "DJI",
+            "modelNo": "Mini 4 Pro Fly More Combo",
+            "price": "48499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/144969-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Mini 4 Pro Drone (DJI RC 2 Ekranlı Kumandalı)",
+            "brand": "DJI",
+            "modelNo": "DJI Mini 4 Pro (DJI RC 2)",
+            "price": "40899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/144069-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "DJI Mavic 3 Pro Fly More Combo Drone (DJI RC)",
+            "brand": "DJI",
+            "modelNo": "DJI Mavic 3 Pro",
+            "price": "127999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/138857-1_small.jpg",
+            "categoryId": "fa538d60-9b82-4ce1-3317-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Mavic 3 Classic RC Drone",
+            "brand": "DJI",
+            "modelNo": "DJI Mavic 3 Classic RC",
+            "price": "58899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/136737-1-1_small.jpg",
+            "categoryId": "fa538d60-9b82-4ce1-3317-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Avata 2 Fly More Combo Drone (Tek Batarya)",
+            "brand": "DJI",
+            "modelNo": "DJI Avata 2 Fly More Combo (Tek Batarya)",
+            "price": "44699",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/144988-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "DJI Air 3 Fly More Combo Drone (DJI RC-N2 Standart Kumandalı)",
+            "brand": "DJI",
+            "modelNo": "Air 3 Fly More Combo (DJI RC-N2)",
+            "price": "8599",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dji/thumb/140327-1_small.jpg",
+            "categoryId": "fa538d60-9b82-4ce1-3317-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Autel Robotics EVO Nano+ Premium Bundle Drone",
+            "brand": "Autel",
+            "modelNo": "EVO Nano+ Premium Gri",
+            "price": "25000",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/autel/thumb/135733-1_small.jpg",
+            "categoryId": "e20c7b35-d8db-4aa6-3316-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "EVO Lite Premium Bundle Grey (4 eksenli gimbal)",
+            "brand": "Autel",
+            "modelNo": "EVO Lite",
+            "price": "47499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/autel/thumb/146292-1_small.jpg",
+            "categoryId": "fa538d60-9b82-4ce1-3317-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "EVO II Pro Rugged Bundle V3 Grey (6K)",
+            "brand": "Autel",
+            "modelNo": "EVO II Pro Rugged Bundle V3",
+            "price": "87500",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/autel/thumb/146291-1_small.jpg",
+            "categoryId": "fa538d60-9b82-4ce1-3317-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Sony Playstation 5 Slim Digital Sürüm Oyun Konsolu",
+            "brand": "SONY",
+            "modelNo": "Playstation 5 Slim",
+            "price": "25999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/143067-1_small.jpg",
+            "categoryId": "b105dcce-5000-44e6-8ff3-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "38"
+        },
+        {
+            "name": "Microsoft Xbox Series S Oyun Konsolu + 3 Ay Gamepass",
+            "brand": "MICROSOFT",
+            "modelNo": "Xbox Series S",
+            "price": "18999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/142480-1-1_small.jpg",
+            "categoryId": "6c0293b6-5b0b-46a6-3318-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "7"
+        },
+        {
+            "name": "Sony Playstation 5 Slim Oyun Konsolu",
+            "brand": "SONY",
+            "modelNo": "Playstation 5 Slim",
+            "price": "29999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/sony/thumb/143066-1-3_small.jpg",
+            "categoryId": "b105dcce-5000-44e6-8ff3-08dcb612b449",
+            "rating": "80",
+            "ratingCount": "15"
+        },
+        {
+            "name": "Microsoft Xbox Series X Oyun Konsolu",
+            "brand": "MICROSOFT",
+            "modelNo": "Xbox Series X",
+            "price": "32999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/108453-gorsel-1_small.jpg",
+            "categoryId": "6c0293b6-5b0b-46a6-3318-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "167"
+        },
+        {
+            "name": "Nintendo Switch OLED Oyun Konsolu (Mavi Kırmızı Joy-Con)",
+            "brand": "NINTENDO",
+            "modelNo": "CON.NSW-0061",
+            "price": "21899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nintendo/thumb/138250-1_small.jpg",
+            "categoryId": "247c74b5-3ce1-4aaa-3319-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Microsoft Xbox Series S Oyun Konsolu",
+            "brand": "MICROSOFT",
+            "modelNo": "RRS-00010",
+            "price": "18999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/109337-anagorsel_small.jpg",
+            "categoryId": "6c0293b6-5b0b-46a6-3318-08dcb7860e3e",
+            "rating": "80",
+            "ratingCount": "103"
+        },
+        {
+            "name": "Nintendo Switch OLED Oyun Konsolu (Beyaz Joy-Con)",
+            "brand": "NINTENDO",
+            "modelNo": "CON.NSW-0060",
+            "price": "18929",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nintendo/thumb/138252-1-1_small.jpg",
+            "categoryId": "247c74b5-3ce1-4aaa-3319-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nintendo Switch Oyun Konsolu Sports Paketi",
+            "brand": "NINTENDO",
+            "modelNo": "Nintendo Switch Oyun Konsolu",
+            "price": "17999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nintendo/thumb/142872-1-1_small.jpg",
+            "categoryId": "247c74b5-3ce1-4aaa-3319-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nintendo Switch OLED Oyun Konsolu Kırmızı Mario",
+            "brand": "NINTENDO",
+            "modelNo": "Nintendo Switch OLED",
+            "price": "19999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nintendo/thumb/143524-1_small.jpg",
+            "categoryId": "247c74b5-3ce1-4aaa-3319-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Nintendo Switch Lite Oyun Konsolu Pembe Isabelle's Aloha",
+            "brand": "NINTENDO",
+            "modelNo": "Switch Lite Oyun Konsolu",
+            "price": "12999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/nintendo/thumb/142870-1_small.jpg",
+            "categoryId": "247c74b5-3ce1-4aaa-3319-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Onvo OV-012 X Plus 1600W Elektrikli Scooter",
+            "brand": "ONVO",
+            "modelNo": "OV-012 X Plus",
+            "price": "27899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/139145-1-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "80",
+            "ratingCount": "5"
+        },
+        {
+            "name": "Ducati Pro Uno 350W Elektrikli Scooter",
+            "brand": "DUCATI",
+            "modelNo": "Pro Uno",
+            "price": "15299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/ducati/thumb/139803-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Segway Ninebot E2 250W Elektrikli Scooter",
+            "brand": "SEGWAY",
+            "modelNo": "E2",
+            "price": "13999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/segway/thumb/139492-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Segway Ninebot F2 Pro 450W Elektrikli Scooter",
+            "brand": "SEGWAY",
+            "modelNo": "F2 Pro",
+            "price": "24999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/segway/thumb/139496-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "4"
+        },
+        {
+            "name": "Segway Ninebot F2 350W Elektrikli Scooter",
+            "brand": "SEGWAY",
+            "modelNo": "F2",
+            "price": "19999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/segway/thumb/139495-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "80",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Navee N65 500W Elektrikli Scooter",
+            "brand": "NAVEE",
+            "modelNo": "N65",
+            "price": "22299",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/navee/thumb/139401-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "8"
+        },
+        {
+            "name": "Segway Ninebot Max G2 450W Elektrikli Scooter",
+            "brand": "SEGWAY",
+            "modelNo": "Max G2",
+            "price": "29999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/segway/thumb/139497-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Onvo RX-06 Plus 2400W Elektrikli Scooter",
+            "brand": "ONVO",
+            "modelNo": "OV-RX6 PLUS",
+            "price": "49999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/146108-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "80",
+            "ratingCount": "4"
+        },
+        {
+            "name": "Snopy Omi Series ABK1 100W Elektrikli Çocuk Scooter (Pembe)",
+            "brand": "SNOPY",
+            "modelNo": "Snopy Omi Pembe",
+            "price": "3899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/snopy/thumb/135695-1_small.jpg",
+            "categoryId": "6c66c9b9-715a-4202-331a-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Snopy Omi Series ABK1 100W Elektrikli Çocuk Scooter (Mavi)",
+            "brand": "SNOPY",
+            "modelNo": "Snopy Omi Mavi",
+            "price": "3899",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/snopy/thumb/135694-1_small.jpg",
+            "categoryId": "6c66c9b9-715a-4202-331a-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Onvo OV-RX1 1000W Elektrikli Scooter",
+            "brand": "ONVO",
+            "modelNo": "OV-RX1",
+            "price": "29999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/146106-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Xiaomi Mi Smart Katlanabilir Elektrikli Bisiklet",
+            "brand": "XIAOMI",
+            "modelNo": "Mi Smart",
+            "price": "35999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/146457-1_small.jpg",
+            "categoryId": "95d11891-fec9-466f-331b-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Volta VB1 Katlanabilir Elektrikli Bisiklet",
+            "brand": "VOLTA",
+            "modelNo": "VB1",
+            "price": "24999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/volta/thumb/140497-1-1_small.jpg",
+            "categoryId": "95d11891-fec9-466f-331b-08dcb7860e3e",
+            "rating": "100",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Aprilia eSR2 Evo 500W Elektrikli Scooter",
+            "brand": "APRILIA",
+            "modelNo": "eSR2 Evo",
+            "price": "34799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/aprilia/thumb/139805-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Gomaster Mobil Urban E-GO 2 350W Elektrikli Scooter",
+            "brand": "GOMASTER",
+            "modelNo": "Mobil Urban E-GO 2",
+            "price": "19874",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/gomaster/thumb/109152-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Navee V40 350W Elektrikli Scooter",
+            "brand": "NAVEE",
+            "modelNo": "V40",
+            "price": "17499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/navee/thumb/139986-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "100",
+            "ratingCount": "2"
+        },
+        {
+            "name": "Argento Active Bike 350W Elektrikli Scooter",
+            "brand": "ARGENTO",
+            "modelNo": "Active Bike",
+            "price": "23499",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/argento/thumb/139807-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Aprilia eSR1 Evo 350W Elektrikli Scooter",
+            "brand": "APRILIA",
+            "modelNo": "eSR1 Evo",
+            "price": "24999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/aprilia/thumb/139806-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Xiaomi Mi Pro 4 350W Elektrikli Scooter",
+            "brand": "XIAOMI",
+            "modelNo": "Mi Pro 4",
+            "price": "24799",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/xiaomi/thumb/139787-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "80",
+            "ratingCount": "1"
+        },
+        {
+            "name": "Gomaster Knight Elektrikli Kaykay",
+            "brand": "GOMASTER",
+            "modelNo": "261319",
+            "price": "11588",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/gomaster/thumb/1-133923_small.jpg",
+            "categoryId": "d4804d21-b784-4076-331c-08dcb7860e3e",
+            "rating": "0",
+            "ratingCount": "0"
+        },
+        {
+            "name": "Onvo OV-RX4 2400W Elektrikli Scooter",
+            "brand": "ONVO",
+            "modelNo": "OV-RX4",
+            "price": "49999",
+            "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/onvo/thumb/146107-1_small.jpg",
+            "categoryId": "5db01859-ae59-40b4-8a67-08dcb60fcab4",
+            "rating": "0",
+            "ratingCount": "0"
+        }
+    ]
+}
