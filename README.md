@@ -44,7 +44,7 @@ Proje, `API_BASE_URL` değişkeninde belirtilen bir API ile entegre olur. `get_c
 
 * Bu script, Vatan Bilgisayar web sitesinin yapısına bağlıdır. Web sitesi yapısında değişiklik olursa, scriptin güncellenmesi gerekebilir.
 * Web scraping yaparken, web sitesinin kullanım koşullarına uymak önemlidir.
-* Bu proje, [GitHub'daki API projenizle]((API projenizin GitHub URL'si)) entegre çalışacak şekilde tasarlanmıştır.
+* Bu proje, [.NET E-Commerce API](https://github.com/mevlutayilmaz/e-commerce-api) ile entegre çalışacak şekilde tasarlanmıştır.
 
 ## Sonuç
 
