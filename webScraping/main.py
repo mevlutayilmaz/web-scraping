@@ -6,7 +6,7 @@ import json
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 datas = []
 BASE_URL = "https://www.vatanbilgisayar.com"
-API_BASE_URL = "https://localhost:7041/api"
+API_BASE_URL = "YOUR_API_BASE_URL"
 CATEGORY_URLs = [
     "tuketici-elektronigi",
     "bilgisayar",
